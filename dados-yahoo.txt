@@ -1,0 +1,698 @@
+//https://br.noticias.yahoo.com/politica/?format=rss
+
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss xmlns:media="https://search.yahoo.com/mrss/" version="2.0">
+<channel>
+<title>Notícias de Política do Brasil - Yahoo Notícias</title>
+<link>https://br.noticias.yahoo.com/politica/</link>
+<description>
+Encontra as últimas notícias de política do Brasil do dia. Acompanhe todas as notícias sobre política de hoje e o que acontece no Mundo no Yahoo Notícias.
+</description>
+<language>pt-BR</language>
+<copyright>Copyright (c) 2014 Yahoo! Inc. All rights reserved</copyright>
+<pubDate>Wed, 15 Oct 2014 21:11:41 -0300</pubDate>
+<ttl>5</ttl>
+<image>
+<title>Notícias de Política do Brasil - Yahoo Notícias</title>
+<link>https://br.noticias.yahoo.com/politica/</link>
+<url>
+https://s.yimg.com/rz/d/yahoo_news_pt-BR_s_f_p_bestfit_news.png
+</url>
+</image>
+<item>
+<title>
+EUA manifestam preocupação com Ebola no país após segundo caso
+</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/segunda-trabalhadora-sanit%C3%A1ria-texas-tem-exame-positivo-ebola-193710119.html"><img src="https://s.yimg.com/bt/api/res/1.2/XHb4SFNdqI6XcmzHOP7JLw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/547044143ec9032c35f35034fb761d10dfb91a43.jpg" width="130" height="86" alt="Presidente Barack Obama faz anotações durante conversa com a Secretária de Saúde e Serviços Humanos, Sylvia Burwell, em Washington, no dia 12 de outubro de 2014" align="left" title="Presidente Barack Obama faz anotações durante conversa com a Secretária de Saúde e Serviços Humanos, Sylvia Burwell, em Washington, no dia 12 de outubro de 2014" border="0" /></a>O exame feito em uma funcionária do hospital no Texas onde foi tratado um liberiano que morreu com o vírus Ebola deu resultado positivo, tornando-se o segundo caso nos Estados Unidos, algo considerado &quot;muito preocupante&quot; pelas autoridades americanas.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/segunda-trabalhadora-sanit%C3%A1ria-texas-tem-exame-positivo-ebola-193710119.html
+</link>
+<pubDate>Wed, 15 Oct 2014 21:11:41 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+segunda-trabalhadora-sanit%C3%A1ria-texas-tem-exame-positivo-ebola-193710119
+</guid>
+<media:content url="https://s.yimg.com/bt/api/res/1.2/XHb4SFNdqI6XcmzHOP7JLw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/547044143ec9032c35f35034fb761d10dfb91a43.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/segunda-trabalhadora-sanit%C3%A1ria-texas-tem-exame-positivo-ebola-193710119.html"><img src="https://s.yimg.com/bt/api/res/1.2/XHb4SFNdqI6XcmzHOP7JLw--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/547044143ec9032c35f35034fb761d10dfb91a43.jpg" width="130" height="86" alt="Presidente Barack Obama faz anotações durante conversa com a Secretária de Saúde e Serviços Humanos, Sylvia Burwell, em Washington, no dia 12 de outubro de 2014" align="left" title="Presidente Barack Obama faz anotações durante conversa com a Secretária de Saúde e Serviços Humanos, Sylvia Burwell, em Washington, no dia 12 de outubro de 2014" border="0" /></a>O exame feito em uma funcionária do hospital no Texas onde foi tratado um liberiano que morreu com o vírus Ebola deu resultado positivo, tornando-se o segundo caso nos Estados Unidos, algo considerado &quot;muito preocupante&quot; pelas autoridades americanas.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>
+Obama promete monitoramento mais agressivo do Ebola nos EUA
+</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/obama-cancela-viagem-participar-reuni%C3%A3o-ebola-casa-branca-172519255.html"><img src="https://s.yimg.com/bt/api/res/1.2/M6.jJTasW.aKD9kteYJO.w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/fddede3e211e192e5bc6c8a0b0d7907496486499.jpg" width="130" height="86" alt="Presidente Barack Obama em uma reunião de imprensa, na cidade americana Maryland, no dia 14 de outubro de 2014" align="left" title="Presidente Barack Obama em uma reunião de imprensa, na cidade americana Maryland, no dia 14 de outubro de 2014" border="0" /></a>O presidente americano, Barack Obama, prometeu nesta quarta-feira uma resposta &quot;muito mais agressiva&quot; nos Estados Unidos à ameaça do Ebola e insistiu em que o risco de uma epidemia séria da febre hemorrágica em solo americano é baixa.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/obama-cancela-viagem-participar-reuni%C3%A3o-ebola-casa-branca-172519255.html
+</link>
+<pubDate>Wed, 15 Oct 2014 21:10:08 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+obama-cancela-viagem-participar-reuni%C3%A3o-ebola-casa-branca-172519255
+</guid>
+<media:content url="https://s.yimg.com/bt/api/res/1.2/M6.jJTasW.aKD9kteYJO.w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/fddede3e211e192e5bc6c8a0b0d7907496486499.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/obama-cancela-viagem-participar-reuni%C3%A3o-ebola-casa-branca-172519255.html"><img src="https://s.yimg.com/bt/api/res/1.2/M6.jJTasW.aKD9kteYJO.w--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/fddede3e211e192e5bc6c8a0b0d7907496486499.jpg" width="130" height="86" alt="Presidente Barack Obama em uma reunião de imprensa, na cidade americana Maryland, no dia 14 de outubro de 2014" align="left" title="Presidente Barack Obama em uma reunião de imprensa, na cidade americana Maryland, no dia 14 de outubro de 2014" border="0" /></a>O presidente americano, Barack Obama, prometeu nesta quarta-feira uma resposta &quot;muito mais agressiva&quot; nos Estados Unidos à ameaça do Ebola e insistiu em que o risco de uma epidemia séria da febre hemorrágica em solo americano é baixa.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Putin acusa Obama de 'hostilidade' com Rússia</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/putin-acusa-obama-hostilidade-r%C3%BAssia-000534346.html"><img src="https://s.yimg.com/bt/api/res/1.2/HVY8bNlxB_7UamxOZKVOtg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/9be3d2ef8c0871491197859af4002b614d5a49cd.jpg" width="130" height="86" alt="O presidente russo, Vladimir Putin, é visto em 15 de outubro de 2014" align="left" title="O presidente russo, Vladimir Putin, é visto em 15 de outubro de 2014" border="0" /></a>O presidente russo, Vladimir Putin, acusou seu homólogo americano, Barack Obama, de ter uma atitude &quot;hostil&quot; em relação à Rússia, em entrevista ao jornal sérvio Politika publicada nesta quarta-feira pelo Kremlin.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/putin-acusa-obama-hostilidade-r%C3%BAssia-000534346.html
+</link>
+<pubDate>Wed, 15 Oct 2014 21:05:34 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+putin-acusa-obama-hostilidade-r%C3%BAssia-000534346
+</guid>
+<media:content url="https://s.yimg.com/bt/api/res/1.2/HVY8bNlxB_7UamxOZKVOtg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/9be3d2ef8c0871491197859af4002b614d5a49cd.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/putin-acusa-obama-hostilidade-r%C3%BAssia-000534346.html"><img src="https://s.yimg.com/bt/api/res/1.2/HVY8bNlxB_7UamxOZKVOtg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/9be3d2ef8c0871491197859af4002b614d5a49cd.jpg" width="130" height="86" alt="O presidente russo, Vladimir Putin, é visto em 15 de outubro de 2014" align="left" title="O presidente russo, Vladimir Putin, é visto em 15 de outubro de 2014" border="0" /></a>O presidente russo, Vladimir Putin, acusou seu homólogo americano, Barack Obama, de ter uma atitude &quot;hostil&quot; em relação à Rússia, em entrevista ao jornal sérvio Politika publicada nesta quarta-feira pelo Kremlin.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>
+Vital não descarta marcar depoimento de Youssef dia 22
+</title>
+<description>
+O presidente da CPI mista da Petrobras, senador Vital do Rêgo (PMDB-PB), afirmou nesta quarta-feira, 15, que não descarta marcar o depoimento do doleiro Alberto Youssef para a próxima quarta-feira (22), às vésperas do segundo turno das eleições.
+</description>
+<link>
+https://br.noticias.yahoo.com/vital-descarta-marcar-depoimento-youssef-dia-22-000100841.html
+</link>
+<pubDate>Wed, 15 Oct 2014 21:01:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+vital-descarta-marcar-depoimento-youssef-dia-22-000100841
+</guid>
+</item>
+<item>
+<title>
+Judiciário deve prezar pela moralidade, diz conselheira
+</title>
+<description>
+"Entre os limites impostos pela Lei de Responsabilidade Fiscal e o ato do Conselho Nacional de Justiça (CNJ) que impõe o pagamento da vantagem, coloca-se o administrador entre a cruz e a caldeirinha: haverá ele de escolher sofrer sanção do Tribunal de Contas da União ou da Corregedoria Nacional de Justiça pelo descumprimento de um ou outro comando.
+</description>
+<link>
+https://br.noticias.yahoo.com/judici%C3%A1rio-deve-prezar-moralidade-diz-conselheira-000000216.html
+</link>
+<pubDate>Wed, 15 Oct 2014 21:00:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+judici%C3%A1rio-deve-prezar-moralidade-diz-conselheira-000000216
+</guid>
+</item>
+<item>
+<title>
+Atores e cineastas do RS declaram apoio a Dilma e Tarso
+</title>
+<description>
+Um coletivo de atores e profissionais do meio audiovisual do Rio Grande do Sul se reuniu para apoiar publicamente as reeleições de Dilma Rousseff (PT), candidata à Presidência da República, e Tarso Genro (PT), candidato a governador do Estado.
+</description>
+<link>
+https://br.noticias.yahoo.com/atores-cineastas-rs-declaram-apoio-dilma-tarso-235900432.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:59:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+atores-cineastas-rs-declaram-apoio-dilma-tarso-235900432
+</guid>
+</item>
+<item>
+<title>
+Ministros pedem pauta 'menos ambiciosa' a Lewandowski
+</title>
+<description>
+Em sessão administrativa realizada no final da tarde desta quarta-feira, ministros do Supremo Tribunal Federal (STF) reclamaram com o presidente da Corte, ministro Ricardo Lewandowski, sobre a elaboração da pauta das sessões plenárias.
+</description>
+<link>
+https://br.noticias.yahoo.com/ministros-pedem-pauta-ambiciosa-lewandowski-235700740.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:57:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+ministros-pedem-pauta-ambiciosa-lewandowski-235700740
+</guid>
+</item>
+<item>
+<title>Procuradores querem receber 14º e 15º salários</title>
+<description>
+A Advocacia-Geral da União (AGU) contestou na Justiça do Distrito Federal um pedido da Associação Nacional dos Procuradores da República (ANPR) para o pagamento do 14º e 15º salários à categoria, nos moldes recebidos por deputados federais e senadores.
+</description>
+<link>
+https://br.noticias.yahoo.com/procuradores-querem-receber-14-15-sal%C3%A1rios-235600810.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:56:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+procuradores-querem-receber-14-15-sal%C3%A1rios-235600810
+</guid>
+</item>
+<item>
+<title>
+Ibope: sobe avaliação ótima ou boa do governo Dilma
+</title>
+<description>
+A avaliação 'boa ou ótima' do governo Dilma Rousseff, de acordo com pesquisa Ibope encomendada pela TV Globo e divulgada nesta quarta-feira, subiu de 39% para 43%.
+</description>
+<link>
+https://br.noticias.yahoo.com/ibope-sobe-avalia%C3%A7%C3%A3o-%C3%B3tima-boa-governo-dilma-235300996.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:53:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+ibope-sobe-avalia%C3%A7%C3%A3o-%C3%B3tima-boa-governo-dilma-235300996
+</guid>
+</item>
+<item>
+<title>
+Ibope/TV Globo:Aécio e Dilma continuam em empate técnico
+</title>
+<description>
+Pesquisa Ibope para presidente da República encomendada pela Rede Globo e divulgada nesta quarta-feira mostra que o quadro se manteve inalterado em relação à última pesquisa, divulgada na quinta-feira (9).
+</description>
+<link>
+https://br.noticias.yahoo.com/ibope-tv-globo-a%C3%A9cio-dilma-continuam-empate-t%C3%A9cnico-235100791.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:51:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+ibope-tv-globo-a%C3%A9cio-dilma-continuam-empate-t%C3%A9cnico-235100791
+</guid>
+</item>
+<item>
+<title>
+Post de petista gera enxurrada de cobrança de dívida
+</title>
+<description>"Bom dia, amigos e amigas.</description>
+<link>
+https://br.noticias.yahoo.com/post-petista-gera-enxurrada-cobran%C3%A7a-d%C3%ADvida-233800551.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:38:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+post-petista-gera-enxurrada-cobran%C3%A7a-d%C3%ADvida-233800551
+</guid>
+</item>
+<item>
+<title>
+Entrevistas de Dilma e Aécio foram canceladas, diz Globo
+</title>
+<description>
+As entrevistas da presidente Dilma Rousseff (PT), candidata à reeleição, e do candidato a presidente Aécio Neves (PSDB) ao Jornal Nacional foram canceladas porque "não foi possível se chegar a um acordo" sobre a duração do encontro, anunciou nesta quarta-feira a Rede Globo de Televisão.
+</description>
+<link>
+https://br.noticias.yahoo.com/entrevistas-dilma-a%C3%A9cio-foram-canceladas-diz-globo-233600311.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:36:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+entrevistas-dilma-a%C3%A9cio-foram-canceladas-diz-globo-233600311
+</guid>
+</item>
+<item>
+<title>
+EUA admitem avanços importantes do Estado Islâmico no Iraque
+</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/estado-isl%C3%A2mico-fez-avan%C3%A7os-importantes-iraque-admitem-eua-200831512.html"><img src="https://s1.yimg.com/bt/api/res/1.2/MyZxHA9AK5pbR6LMJYCEtQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/3195743a9890a1cd0ce5e1011e3dee8af4bf443d.jpg" width="130" height="86" alt="Famílias iraquianas se refugiam em zona controlada pelos Curdos, em Mullah Abdullah, no Iraque, em 15 de outubro de 2014" align="left" title="Famílias iraquianas se refugiam em zona controlada pelos Curdos, em Mullah Abdullah, no Iraque, em 15 de outubro de 2014" border="0" /></a>O grupo extremista Estado Islâmico (EI) avançou consideravelmente no Iraque, apesar dos constantes ataques aéreos liderados pelos Estados Unidos, afirmou nesta quarta-feira o enviado de Washington para a coalizão internacional que combate a formação radical.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/estado-isl%C3%A2mico-fez-avan%C3%A7os-importantes-iraque-admitem-eua-200831512.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:26:02 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+estado-isl%C3%A2mico-fez-avan%C3%A7os-importantes-iraque-admitem-eua-200831512
+</guid>
+<media:content url="https://s1.yimg.com/bt/api/res/1.2/MyZxHA9AK5pbR6LMJYCEtQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/3195743a9890a1cd0ce5e1011e3dee8af4bf443d.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/estado-isl%C3%A2mico-fez-avan%C3%A7os-importantes-iraque-admitem-eua-200831512.html"><img src="https://s1.yimg.com/bt/api/res/1.2/MyZxHA9AK5pbR6LMJYCEtQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/3195743a9890a1cd0ce5e1011e3dee8af4bf443d.jpg" width="130" height="86" alt="Famílias iraquianas se refugiam em zona controlada pelos Curdos, em Mullah Abdullah, no Iraque, em 15 de outubro de 2014" align="left" title="Famílias iraquianas se refugiam em zona controlada pelos Curdos, em Mullah Abdullah, no Iraque, em 15 de outubro de 2014" border="0" /></a>O grupo extremista Estado Islâmico (EI) avançou consideravelmente no Iraque, apesar dos constantes ataques aéreos liderados pelos Estados Unidos, afirmou nesta quarta-feira o enviado de Washington para a coalizão internacional que combate a formação radical.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>
+Militares dos EUA foram expostos a armas químicas após 2003
+</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/militares-dos-eua-foram-expostos-armas-qu%C3%ADmicas-2003-232041112.html"><img src="https://s.yimg.com/bt/api/res/1.2/lPNPyLJ2tS0Gg0VElIT.dg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/e92b3df383e4c42c0218b5bd291ac69d474aea58.jpg" width="130" height="86" alt="Soldados norte-americanos participam de exercício militar similando ataque de armas químicas, em 2 de junho de 2014, em Zarqa, Jordânia" align="left" title="Soldados norte-americanos participam de exercício militar similando ataque de armas químicas, em 2 de junho de 2014, em Zarqa, Jordânia" border="0" /></a>Um grupo de 20 soldados americanos foi exposto a armas químicas no Iraque e recebeu ordens para manter sigilo sobre o caso, confirmou o Pentágono nesta quarta-feira, após informações divulgadas pelo The New York Times.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/militares-dos-eua-foram-expostos-armas-qu%C3%ADmicas-2003-232041112.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:20:41 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+militares-dos-eua-foram-expostos-armas-qu%C3%ADmicas-2003-232041112
+</guid>
+<media:content url="https://s.yimg.com/bt/api/res/1.2/lPNPyLJ2tS0Gg0VElIT.dg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/e92b3df383e4c42c0218b5bd291ac69d474aea58.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/militares-dos-eua-foram-expostos-armas-qu%C3%ADmicas-2003-232041112.html"><img src="https://s.yimg.com/bt/api/res/1.2/lPNPyLJ2tS0Gg0VElIT.dg--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/e92b3df383e4c42c0218b5bd291ac69d474aea58.jpg" width="130" height="86" alt="Soldados norte-americanos participam de exercício militar similando ataque de armas químicas, em 2 de junho de 2014, em Zarqa, Jordânia" align="left" title="Soldados norte-americanos participam de exercício militar similando ataque de armas químicas, em 2 de junho de 2014, em Zarqa, Jordânia" border="0" /></a>Um grupo de 20 soldados americanos foi exposto a armas químicas no Iraque e recebeu ordens para manter sigilo sobre o caso, confirmou o Pentágono nesta quarta-feira, após informações divulgadas pelo The New York Times.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>
+Jefferson não pode falar sobre política no trabalho
+</title>
+<description>
+O ministro Luís Roberto Barroso, do Supremo Tribunal Federal (STF), alertou que o ex-deputado federal Roberto Jefferson poderá perder o direito de trabalhar fora da prisão se fizer pronunciamentos políticos públicos.
+</description>
+<link>
+https://br.noticias.yahoo.com/jefferson-pode-falar-pol%C3%ADtica-trabalho-231300290.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:13:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+jefferson-pode-falar-pol%C3%ADtica-trabalho-231300290
+</guid>
+</item>
+<item>
+<title>
+Autoridades de Hong Kong prometem investigar violência policial contra manifestantes
+</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/v%C3%ADdeo-viol%C3%AAncia-policial-manifestante-gera-cr%C3%ADticas-hong-kong-194608165.html"><img src="https://s.yimg.com/bt/api/res/1.2/PgLpQdgAxi0dD7m1efTcoQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/65f73a4ad7e73efae18100e2513e1c0b36ffa088.jpg" width="130" height="86" alt="Um policial observa a chegada de reforços durante uma operação de retenção da multidão de manifestantes pró-democracia reunidos em Hong Kong, em 15 de outubro de 2014" align="left" title="Um policial observa a chegada de reforços durante uma operação de retenção da multidão de manifestantes pró-democracia reunidos em Hong Kong, em 15 de outubro de 2014" border="0" /></a>As autoridades de Hong Kong afirmaram nesta quarta-feira que vão investigar as agressões de policiais contra os manifestantes pró-democracia que paralisam a região.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/v%C3%ADdeo-viol%C3%AAncia-policial-manifestante-gera-cr%C3%ADticas-hong-kong-194608165.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:03:40 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+v%C3%ADdeo-viol%C3%AAncia-policial-manifestante-gera-cr%C3%ADticas-hong-kong-194608165
+</guid>
+<media:content url="https://s.yimg.com/bt/api/res/1.2/PgLpQdgAxi0dD7m1efTcoQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/65f73a4ad7e73efae18100e2513e1c0b36ffa088.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/v%C3%ADdeo-viol%C3%AAncia-policial-manifestante-gera-cr%C3%ADticas-hong-kong-194608165.html"><img src="https://s.yimg.com/bt/api/res/1.2/PgLpQdgAxi0dD7m1efTcoQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/65f73a4ad7e73efae18100e2513e1c0b36ffa088.jpg" width="130" height="86" alt="Um policial observa a chegada de reforços durante uma operação de retenção da multidão de manifestantes pró-democracia reunidos em Hong Kong, em 15 de outubro de 2014" align="left" title="Um policial observa a chegada de reforços durante uma operação de retenção da multidão de manifestantes pró-democracia reunidos em Hong Kong, em 15 de outubro de 2014" border="0" /></a>As autoridades de Hong Kong afirmaram nesta quarta-feira que vão investigar as agressões de policiais contra os manifestantes pró-democracia que paralisam a região.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Dilma diz que PSDB sempre foi elitista</title>
+<description>
+A presidente e candidata à reeleição Dilma Rousseff (PT) voltou a criticar a fala do ex-presidente Fernando Henrique Cardoso (PSDB) de que o eleitor que vota no PT é desinformado.
+</description>
+<link>
+https://br.noticias.yahoo.com/dilma-diz-psdb-foi-elitista-230300370.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:03:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">dilma-diz-psdb-foi-elitista-230300370</guid>
+</item>
+<item>
+<title>Neca Setúbal declara apoio a Aécio Neves</title>
+<description>
+A coordenadora do programa de governo da candidatura de Marina Silva (PSB) e herdeira do banco Itaú, Maria Alice Setúbal, declarou nesta quarta-feira, em seu perfil oficial no Facebook, que votará no candidato do PSDB à Presidência, Aécio Neves.
+</description>
+<link>
+https://br.noticias.yahoo.com/neca-set%C3%BAbal-declara-apoio-a%C3%A9cio-neves-230200258.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:02:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+neca-set%C3%BAbal-declara-apoio-a%C3%A9cio-neves-230200258
+</guid>
+</item>
+<item>
+<title>
+Empate técnico no RJ acende alerta na campanha de Dilma
+</title>
+<description>
+Pesquisas internas encomendada por partidos aliados tanto da presidente Dilma Rousseff quanto do tucano Aécio Neves indicam empate técnico entre os dois candidatos no Rio de Janeiro e acenderam sinal de alerta na campanha petista.
+</description>
+<link>
+https://br.noticias.yahoo.com/empate-t%C3%A9cnico-rj-acende-alerta-campanha-dilma-230100877.html
+</link>
+<pubDate>Wed, 15 Oct 2014 20:01:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+empate-t%C3%A9cnico-rj-acende-alerta-campanha-dilma-230100877
+</guid>
+</item>
+<item>
+<title>Ibope: No RN, Dilma tem 65% e Aécio, 35%</title>
+<description>
+A candidata do PT à Presidência Dilma Rousseff (PT) lidera as pesquisas de intenção de voto no Rio Grande do Norte, com 65% dos votos válidos, contra 35% de Aécio Neves (PSDB).
+</description>
+<link>
+https://br.noticias.yahoo.com/ibope-rn-dilma-tem-65-a%C3%A9cio-35-225700702.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:57:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">ibope-rn-dilma-tem-65-a%C3%A9cio-35-225700702</guid>
+</item>
+<item>
+<title>Ibope: Em GO, Perillo tem 56% e Iris Rezende, 44%</title>
+<description>
+Pesquisa Ibope divulgada nesta quarta-feira, 15, pelo portal G1 mostra uma liderança do candidato Marconi Perillo (PSDB) na disputa pelo governo de Goiás.
+</description>
+<link>
+https://br.noticias.yahoo.com/ibope-go-perillo-tem-56-iris-rezende-44-225600575.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:56:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">ibope-go-perillo-tem-56-iris-rezende-44-225600575</guid>
+</item>
+<item>
+<title>
+Líder do PT diz que falta organização na campanha de SP
+</title>
+<description>
+O deputado federal reeleito Vicente Cândido (PT-SP) afirmou nesta quarta-feira, 15, que falta "organização" na campanha da presidente Dilma Rousseff em São Paulo, maior colégio eleitoral do País e onde o candidato do PSDB, Aécio Neves, abriu vantagem de mais de 4 milhões de votos sobre a petista.
+</description>
+<link>
+https://br.noticias.yahoo.com/l%C3%ADder-pt-diz-falta-organiza%C3%A7%C3%A3o-campanha-sp-224600945.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:46:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+l%C3%ADder-pt-diz-falta-organiza%C3%A7%C3%A3o-campanha-sp-224600945
+</guid>
+</item>
+<item>
+<title>
+PSDB acusa PT de fazer 'puro terrorismo' em propaganda
+</title>
+<description>
+O PSDB divulgou nesta quarta-feira, 15, um artigo no qual acusa o PT de fazer o "mais puro terrorismo" na propaganda eleitoral.
+</description>
+<link>
+https://br.noticias.yahoo.com/psdb-acusa-pt-fazer-puro-terrorismo-propaganda-224400412.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:44:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+psdb-acusa-pt-fazer-puro-terrorismo-propaganda-224400412
+</guid>
+</item>
+<item>
+<title>
+Ibope: No RN, Robinson tem 54% e Henrique Alves, 46%
+</title>
+<description>
+O candidato do PSD ao governo do Rio Grande do Norte (RN) está na liderança pelo governo do Estado, com 54% das intenções de votos válidos, de acordo com pesquisa Ibope encomendada pela Inter TV Cabugi.
+</description>
+<link>
+https://br.noticias.yahoo.com/ibope-rn-robinson-tem-54-henrique-alves-46-224300833.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:43:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+ibope-rn-robinson-tem-54-henrique-alves-46-224300833
+</guid>
+</item>
+<item>
+<title>
+Datafolha: Avaliação boa do governo oscila para 40%
+</title>
+<description>
+Pesquisa Datafolha divulgada nesta quarta-feira mostrou que 40% dos eleitores consideram a administração do governo Dilma 'boa ou ótima', contra 39% do levantamento anterior.
+</description>
+<link>
+https://br.noticias.yahoo.com/datafolha-avalia%C3%A7%C3%A3o-boa-governo-oscila-40-223900778.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:39:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+datafolha-avalia%C3%A7%C3%A3o-boa-governo-oscila-40-223900778
+</guid>
+</item>
+<item>
+<title>
+Base acusa TCE-MG de retirar dados contra Aécio de site
+</title>
+<description>
+Deputados que fazem parte da coligação que elegeu governador Fernando Pimentel (PT) em Minas Gerais divulgaram nesta quarta-feira, 15, nota contra o Tribunal de Contas do Estado (TCE-MG) por suposta retirada do seu portal de relatórios das contas governamentais do Estado.
+</description>
+<link>
+https://br.noticias.yahoo.com/base-acusa-tce-mg-retirar-dados-a%C3%A9cio-site-222900757.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:29:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+base-acusa-tce-mg-retirar-dados-a%C3%A9cio-site-222900757
+</guid>
+</item>
+<item>
+<title>
+Aécio não está acostumado a receber críticas, diz Dilma
+</title>
+<description>
+A presidente Dilma Rousseff (PT) negou nesta quarta-feira que esteja tentando desconstruir a imagem do seu adversário Aécio Neves (PSDB).
+</description>
+<link>
+https://br.noticias.yahoo.com/a%C3%A9cio-est%C3%A1-acostumado-receber-cr%C3%ADticas-diz-dilma-222700416.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:27:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+a%C3%A9cio-est%C3%A1-acostumado-receber-cr%C3%ADticas-diz-dilma-222700416
+</guid>
+</item>
+<item>
+<title>
+Ataques aéreos matam centenas de extremistas na Síria, diz Pentágono
+</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/miss%C3%A3o-pent%C3%A1gono-ei-%C3%A9-batizada-determina%C3%A7%C3%A3o-absoluta-205302182.html"><img src="https://s1.yimg.com/bt/api/res/1.2/lKUYcfSHCGXTTcM_p3xAlQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/06382850f97feaf73b231cd8f4519efc071b6d99.jpg" width="130" height="86" alt="Vista do prédio do Pentágono em Washington" align="left" title="Vista do prédio do Pentágono em Washington" border="0" /></a>Os ataques aéreos realizados para defender a cidade curda de Kobane, na Síria, mataram &quot;várias centenas&quot; de combatentes do grupo Estado Islâmico (EI), anunciou o porta-voz do Pentágono nesta quarta-feira.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/miss%C3%A3o-pent%C3%A1gono-ei-%C3%A9-batizada-determina%C3%A7%C3%A3o-absoluta-205302182.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:17:57 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+miss%C3%A3o-pent%C3%A1gono-ei-%C3%A9-batizada-determina%C3%A7%C3%A3o-absoluta-205302182
+</guid>
+<media:content url="https://s1.yimg.com/bt/api/res/1.2/lKUYcfSHCGXTTcM_p3xAlQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/06382850f97feaf73b231cd8f4519efc071b6d99.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/miss%C3%A3o-pent%C3%A1gono-ei-%C3%A9-batizada-determina%C3%A7%C3%A3o-absoluta-205302182.html"><img src="https://s1.yimg.com/bt/api/res/1.2/lKUYcfSHCGXTTcM_p3xAlQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/06382850f97feaf73b231cd8f4519efc071b6d99.jpg" width="130" height="86" alt="Vista do prédio do Pentágono em Washington" align="left" title="Vista do prédio do Pentágono em Washington" border="0" /></a>Os ataques aéreos realizados para defender a cidade curda de Kobane, na Síria, mataram &quot;várias centenas&quot; de combatentes do grupo Estado Islâmico (EI), anunciou o porta-voz do Pentágono nesta quarta-feira.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>
+Pimentel reúne deputados em MG por campanha de Dilma
+</title>
+<description>
+O governador eleito de Minas Gerais, Fernando Pimentel (PT), fez na tarde desta quarta-feira, 15, uma reunião com alguns dos deputados estaduais e federais eleitos e também os não eleitos dos partidos que fizeram parte de sua coligação.
+</description>
+<link>
+https://br.noticias.yahoo.com/pimentel-re%C3%BAne-deputados-mg-campanha-dilma-220900344.html
+</link>
+<pubDate>Wed, 15 Oct 2014 19:09:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+pimentel-re%C3%BAne-deputados-mg-campanha-dilma-220900344
+</guid>
+</item>
+<item>
+<title>
+Datafolha: Aécio e Dilma continuam em empate técnico
+</title>
+<description>
+Pesquisa Datafolha divulgada nesta quarta-feira pela Folha de S.
+</description>
+<link>
+https://br.noticias.yahoo.com/datafolha-a%C3%A9cio-dilma-continuam-empate-t%C3%A9cnico-214200578.html
+</link>
+<pubDate>Wed, 15 Oct 2014 18:42:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+datafolha-a%C3%A9cio-dilma-continuam-empate-t%C3%A9cnico-214200578
+</guid>
+</item>
+<item>
+<title>Atentado com carro-bomba deixa 5 mortos na Somália</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/atentado-carro-bomba-deixa-5-mortos-som%C3%A1lia-213425505.html"><img src="https://s1.yimg.com/bt/api/res/1.2/6cGZyTtoTtamJzPtH6saMA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/e453501cd9f02f7c0f9176c9e2a7e1661054526b.jpg" width="130" height="86" alt="Civis e forças de segurança somálias no local do atentado, em Mogadíscio, na Somália, em 15 de outubro de 2014" align="left" title="Civis e forças de segurança somálias no local do atentado, em Mogadíscio, na Somália, em 15 de outubro de 2014" border="0" /></a>Cinco pessoas morreram nesta quarta-feira em um atentado com carro-bomba realizado em Mogadíscio, o segundo registrado em três dias na capital somali.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/atentado-carro-bomba-deixa-5-mortos-som%C3%A1lia-213425505.html
+</link>
+<pubDate>Wed, 15 Oct 2014 18:34:25 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+atentado-carro-bomba-deixa-5-mortos-som%C3%A1lia-213425505
+</guid>
+<media:content url="https://s1.yimg.com/bt/api/res/1.2/6cGZyTtoTtamJzPtH6saMA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/e453501cd9f02f7c0f9176c9e2a7e1661054526b.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/atentado-carro-bomba-deixa-5-mortos-som%C3%A1lia-213425505.html"><img src="https://s1.yimg.com/bt/api/res/1.2/6cGZyTtoTtamJzPtH6saMA--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/e453501cd9f02f7c0f9176c9e2a7e1661054526b.jpg" width="130" height="86" alt="Civis e forças de segurança somálias no local do atentado, em Mogadíscio, na Somália, em 15 de outubro de 2014" align="left" title="Civis e forças de segurança somálias no local do atentado, em Mogadíscio, na Somália, em 15 de outubro de 2014" border="0" /></a>Cinco pessoas morreram nesta quarta-feira em um atentado com carro-bomba realizado em Mogadíscio, o segundo registrado em três dias na capital somali.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>
+'Me deem de novo a vitória em São Paulo', pede Aécio
+</title>
+<description>
+Em discurso realizado no ato político realizado nesta quarta-feira em São Paulo com prefeitos do Estado e apoiadores de sua campanha, o candidato do PSDB à Presidência da República, Aécio Neves, conclamou todos a trabalhar por sua candidatura, para que possa repetir a boa votação que teve em São Paulo, um dos responsáveis por sua ida ao segundo turno da corrida presidencial.
+</description>
+<link>
+https://br.noticias.yahoo.com/deem-novo-vit%C3%B3ria-s%C3%A3o-paulo-pede-a%C3%A9cio-211300616.html
+</link>
+<pubDate>Wed, 15 Oct 2014 18:13:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+deem-novo-vit%C3%B3ria-s%C3%A3o-paulo-pede-a%C3%A9cio-211300616
+</guid>
+</item>
+<item>
+<title>
+Novo balanço da OMS registra 4.493 mortos por Ebola
+</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/novo-balan%C3%A7o-oms-registra-4-493-mortos-ebola-205632088--finance.html"><img src="https://s1.yimg.com/bt/api/res/1.2/cha9y8G2Y1qjiXzM5GyVVQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/6957babd7ce7491661e5543d268d5016397ab313.jpg" width="130" height="86" alt="Ebola em Europa e Estados Unidos" align="left" title="Ebola em Europa e Estados Unidos" border="0" /></a>A febre hemorrágica causada pelo vírus Ebola matou 4.493 pessoas de um total de 8.997 casos registrados em sete países (Libéria, Serra Leoa, Guiné, Nigéria, Senegal, Espanha e Estados Unidos), segundo o último balanço mundial divulgado pela Organização Mundial da Saúde (OMS) nesta quarta-feira com dados coletados até 12 de outubro.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/novo-balan%C3%A7o-oms-registra-4-493-mortos-ebola-205632088--finance.html
+</link>
+<pubDate>Wed, 15 Oct 2014 17:56:32 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+novo-balan%C3%A7o-oms-registra-4-493-mortos-ebola-205632088--finance
+</guid>
+<media:content url="https://s1.yimg.com/bt/api/res/1.2/cha9y8G2Y1qjiXzM5GyVVQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/6957babd7ce7491661e5543d268d5016397ab313.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/novo-balan%C3%A7o-oms-registra-4-493-mortos-ebola-205632088--finance.html"><img src="https://s1.yimg.com/bt/api/res/1.2/cha9y8G2Y1qjiXzM5GyVVQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/6957babd7ce7491661e5543d268d5016397ab313.jpg" width="130" height="86" alt="Ebola em Europa e Estados Unidos" align="left" title="Ebola em Europa e Estados Unidos" border="0" /></a>A febre hemorrágica causada pelo vírus Ebola matou 4.493 pessoas de um total de 8.997 casos registrados em sete países (Libéria, Serra Leoa, Guiné, Nigéria, Senegal, Espanha e Estados Unidos), segundo o último balanço mundial divulgado pela Organização Mundial da Saúde (OMS) nesta quarta-feira com dados coletados até 12 de outubro.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>
+BID lança programa contra subnutrição e obesidade infantil na AL
+</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/bid-lan%C3%A7a-programa-subnutri%C3%A7%C3%A3o-obesidade-infantil-al-205303513--sector.html"><img src="https://s1.yimg.com/bt/api/res/1.2/a6CN7xkkoQWrHdg7cCF8sQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/7231ed9db8e0dc08e395f64bfd59c861d5a1f9ee.jpg" width="130" height="86" alt="Criança faz aula de balé com professora da Royal Opera House no Teatro Municipal do Rio de Janeiro, em 23 de fevereiro de 2013" align="left" title="Criança faz aula de balé com professora da Royal Opera House no Teatro Municipal do Rio de Janeiro, em 23 de fevereiro de 2013" border="0" /></a>O Banco Interamericano de Desenvolvimento (BID) e a PepsiCo lançaram nesta quarta-feira, em Washington, um programa experimental destinado a quatro países latino-americanos para combater a subnutrição e a obesidade infantil mediante a distribuição de suplementos vitamínicos.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/bid-lan%C3%A7a-programa-subnutri%C3%A7%C3%A3o-obesidade-infantil-al-205303513--sector.html
+</link>
+<pubDate>Wed, 15 Oct 2014 17:53:03 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+bid-lan%C3%A7a-programa-subnutri%C3%A7%C3%A3o-obesidade-infantil-al-205303513--sector
+</guid>
+<media:content url="https://s1.yimg.com/bt/api/res/1.2/a6CN7xkkoQWrHdg7cCF8sQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/7231ed9db8e0dc08e395f64bfd59c861d5a1f9ee.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/bid-lan%C3%A7a-programa-subnutri%C3%A7%C3%A3o-obesidade-infantil-al-205303513--sector.html"><img src="https://s1.yimg.com/bt/api/res/1.2/a6CN7xkkoQWrHdg7cCF8sQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/7231ed9db8e0dc08e395f64bfd59c861d5a1f9ee.jpg" width="130" height="86" alt="Criança faz aula de balé com professora da Royal Opera House no Teatro Municipal do Rio de Janeiro, em 23 de fevereiro de 2013" align="left" title="Criança faz aula de balé com professora da Royal Opera House no Teatro Municipal do Rio de Janeiro, em 23 de fevereiro de 2013" border="0" /></a>O Banco Interamericano de Desenvolvimento (BID) e a PepsiCo lançaram nesta quarta-feira, em Washington, um programa experimental destinado a quatro países latino-americanos para combater a subnutrição e a obesidade infantil mediante a distribuição de suplementos vitamínicos.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>
+China: menor inflação em cinco anos desperta temores deflacionários
+</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/china-menor-infla%C3%A7%C3%A3o-cinco-anos-desperta-temores-deflacion%C3%A1rios-204505931--business.html"><img src="https://s1.yimg.com/bt/api/res/1.2/JstnR8tgCE3V9LxZ4IpY2Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/da5686d35c20ce9837033e93d73b29c27eaa1d4f.jpg" width="130" height="86" alt="Pessoas atravessam rua do centro de Pequim, em 13 de outubro de 2014" align="left" title="Pessoas atravessam rua do centro de Pequim, em 13 de outubro de 2014" border="0" /></a>Em setembro, a inflação caiu na China a um nível inédito em quase cinco anos, levantando temores deflacionários em um contexto de desaquecimento da segunda economia mundial.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/china-menor-infla%C3%A7%C3%A3o-cinco-anos-desperta-temores-deflacion%C3%A1rios-204505931--business.html
+</link>
+<pubDate>Wed, 15 Oct 2014 17:45:05 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+china-menor-infla%C3%A7%C3%A3o-cinco-anos-desperta-temores-deflacion%C3%A1rios-204505931--business
+</guid>
+<media:content url="https://s1.yimg.com/bt/api/res/1.2/JstnR8tgCE3V9LxZ4IpY2Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/da5686d35c20ce9837033e93d73b29c27eaa1d4f.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/china-menor-infla%C3%A7%C3%A3o-cinco-anos-desperta-temores-deflacion%C3%A1rios-204505931--business.html"><img src="https://s1.yimg.com/bt/api/res/1.2/JstnR8tgCE3V9LxZ4IpY2Q--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/da5686d35c20ce9837033e93d73b29c27eaa1d4f.jpg" width="130" height="86" alt="Pessoas atravessam rua do centro de Pequim, em 13 de outubro de 2014" align="left" title="Pessoas atravessam rua do centro de Pequim, em 13 de outubro de 2014" border="0" /></a>Em setembro, a inflação caiu na China a um nível inédito em quase cinco anos, levantando temores deflacionários em um contexto de desaquecimento da segunda economia mundial.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>Fed: crescimento americano é de modesto a moderado</title>
+<description>
+<p><a href="https://br.noticias.yahoo.com/fed-crescimento-americano-%C3%A9-modesto-moderado-190044481--business.html"><img src="https://s1.yimg.com/bt/api/res/1.2/iI9YJpDOJ3jxbp.TyC9XcQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/b45f6fbd52a23e24c01bba2b9ec8259dbd492427.jpg" width="130" height="86" alt="A presidente da US Federal Reserve, Janet Yellen, prepara-se para foto do grupo do Comitê Monetário e Financeiro Internacional, em Washington, no dia 11 de outubro de 2014" align="left" title="A presidente da US Federal Reserve, Janet Yellen, prepara-se para foto do grupo do Comitê Monetário e Financeiro Internacional, em Washington, no dia 11 de outubro de 2014" border="0" /></a>A atividade econômica nos Estados Unidos continuou crescendo de forma &quot;modesta a moderada&quot; entre o final de agosto e o início de outubro, segundo o Livro Bege do Federal Reserve (Fed, o Banco Central americano) publicado nesta quarta-feira.</p><br clear="all"/>
+</description>
+<link>
+https://br.noticias.yahoo.com/fed-crescimento-americano-%C3%A9-modesto-moderado-190044481--business.html
+</link>
+<pubDate>Wed, 15 Oct 2014 17:37:56 -0300</pubDate>
+<source url="http://www.afp.com/portugues/home/">AFP</source>
+<guid isPermaLink="false">
+fed-crescimento-americano-%C3%A9-modesto-moderado-190044481--business
+</guid>
+<media:content url="https://s1.yimg.com/bt/api/res/1.2/iI9YJpDOJ3jxbp.TyC9XcQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/b45f6fbd52a23e24c01bba2b9ec8259dbd492427.jpg" type="image/jpeg" width="130" height="86"/>
+<media:text type="html">
+<p><a href="https://br.noticias.yahoo.com/fed-crescimento-americano-%C3%A9-modesto-moderado-190044481--business.html"><img src="https://s1.yimg.com/bt/api/res/1.2/iI9YJpDOJ3jxbp.TyC9XcQ--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTg2O3E9NzU7dz0xMzA-/http://media.zenfs.com/pt_BR/News/AFP/b45f6fbd52a23e24c01bba2b9ec8259dbd492427.jpg" width="130" height="86" alt="A presidente da US Federal Reserve, Janet Yellen, prepara-se para foto do grupo do Comitê Monetário e Financeiro Internacional, em Washington, no dia 11 de outubro de 2014" align="left" title="A presidente da US Federal Reserve, Janet Yellen, prepara-se para foto do grupo do Comitê Monetário e Financeiro Internacional, em Washington, no dia 11 de outubro de 2014" border="0" /></a>A atividade econômica nos Estados Unidos continuou crescendo de forma &quot;modesta a moderada&quot; entre o final de agosto e o início de outubro, segundo o Livro Bege do Federal Reserve (Fed, o Banco Central americano) publicado nesta quarta-feira.</p><br clear="all"/>
+</media:text>
+<media:credit role="publishing company"/>
+</item>
+<item>
+<title>
+TCU alerta para contratos no Comperj firmados por Costa
+</title>
+<description>
+José Jorge, ministro do Tribunal de Contas da União (TCU), disse nesta quarta-feira, 15, ser no mínimo "estranho" que se tenha R$ 7,6 bilhões em contratos sem licitação no Complexo Petroquímico do Rio de Janeiro (Comperj).
+</description>
+<link>
+https://br.noticias.yahoo.com/tcu-alerta-contratos-comperj-firmados-costa-200900594.html
+</link>
+<pubDate>Wed, 15 Oct 2014 17:09:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+tcu-alerta-contratos-comperj-firmados-costa-200900594
+</guid>
+</item>
+<item>
+<title>Aécio se encontra com lideranças evangélicas em SP</title>
+<description>
+O candidato à Presidência pelo PSDB, Aécio Neves, esteve nesta quarta-feira, 15, com lideranças evangélicas em São Paulo, em evento que não constava da agenda oficial do presidenciável.
+</description>
+<link>
+https://br.noticias.yahoo.com/a%C3%A9cio-se-encontra-lideran%C3%A7as-evang%C3%A9licas-sp-200300788.html
+</link>
+<pubDate>Wed, 15 Oct 2014 17:03:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+a%C3%A9cio-se-encontra-lideran%C3%A7as-evang%C3%A9licas-sp-200300788
+</guid>
+</item>
+<item>
+<title>CPI mista entra com ação para ver delação de Costa</title>
+<description>
+O presidente da CPI mista da Petrobras, senador Vital do Rêgo (PMDB-PB), impetrou nesta quarta-feira mandado de segurança no Supremo Tribunal Federal (STF) para garantir acesso a todos os documentos da delação premiada do ex-diretor de Abastecimento da estatal Paulo Roberto Costa.
+</description>
+<link>
+https://br.noticias.yahoo.com/cpi-mista-entra-a%C3%A7%C3%A3o-ver-dela%C3%A7%C3%A3o-costa-192000169.html
+</link>
+<pubDate>Wed, 15 Oct 2014 16:20:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+cpi-mista-entra-a%C3%A7%C3%A3o-ver-dela%C3%A7%C3%A3o-costa-192000169
+</guid>
+</item>
+<item>
+<title>
+Dipp/STJ: Delação não pode ser compartilhada com CPI
+</title>
+<description>
+O ministro do Superior Tribunal de Justiça (STJ), Gilson Dipp, afirmou nesta quarta-feira que o teor do acordo da delação premiada do ex-diretor da Petrobras Paulo Roberto Costa à Polícia Federal e trecho do conteúdo do depoimento dele não podem ser compartilhadas com a Comissão Parlamentar de Inquérito (CPI) criada no Congresso para apurar as acusações do executivo contra agentes políticos.
+</description>
+<link>
+https://br.noticias.yahoo.com/dipp-stj-dela%C3%A7%C3%A3o-pode-ser-compartilhada-cpi-185900081.html
+</link>
+<pubDate>Wed, 15 Oct 2014 15:59:00 -0300</pubDate>
+<source url="http://www.ae.com.br/">Estadão Conteúdo</source>
+<guid isPermaLink="false">
+dipp-stj-dela%C3%A7%C3%A3o-pode-ser-compartilhada-cpi-185900081
+</guid>
+</item>
+</channel>
+</rss>
+<!--
+ fe248.global.media.bf1.yahoo.com compressed/chunked Thu Oct 16 04:32:36 UTC 2014 
+-->

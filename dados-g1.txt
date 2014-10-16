@@ -1,0 +1,544 @@
+//http://g1.globo.com/dynamo/politica/eleicoes/rss2.xml
+
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<rss version="2.0">
+<channel>
+<title>Política > Eleições</title>
+<link>http://g1.globo.com</link>
+<description/>
+<language>pt-BR</language>
+<copyright>© Todos os direitos reservados.</copyright>
+<lastBuildDate>Thu, 16 Oct 2014 01:30:10 -0300</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<image>
+<url>
+http://g1.globo.com/Portal/globonoticias/img/tit_header_rss.jpg
+</url>
+<title>Política > Eleições</title>
+<link>http://g1.globo.com</link>
+<width>144</width>
+<height>60</height>
+<description/>
+</image>
+<item>
+<title>
+Lula questiona 'decência' de quem se recusa a fazer teste do bafômetro
+</title>
+<link>
+http://g1.globo.com/pa/para/eleicoes/2014/noticia/2014/10/lula-questiona-decencia-de-quem-recusa-fazer-teste-do-bafometro.html
+</link>
+<description>
+<a href='http://g1.globo.com/pa/para/eleicoes/2014/noticia/2014/10/lula-questiona-decencia-de-quem-recusa-fazer-teste-do-bafometro.html' alt='Lula questiona 'decência' de quem se recusa a fazer teste do bafômetro'><img border='0' src='http://s2.glbimg.com/QCDK-EEjxUwKhH83RtJcWU6uoFg=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/lula_helder_e_jader_ii.jpg' alt='Lula questiona 'decência' de quem se recusa a fazer teste do bafômetro' title='Lula questiona 'decência' de quem se recusa a fazer teste do bafômetro' /></a><br />Em 2011, Aécio Neves se negou a soprar bafômetro; ele se diz arrependido. Ao lado de Jader, Lula fez campanha para Helder Barbalho em Belém.
+</description>
+<category>Eleições 2014 no Pará</category>
+<pubDate>Wed, 15 Oct 2014 23:43:11 -0300</pubDate>
+</item>
+<item>
+<title>
+Justiça Eleitoral de RR precisa de 50 mesários voluntários para o 2º turno
+</title>
+<link>
+http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/justica-eleitoral-de-rr-precisa-de-50-mesarios-voluntarios-para-o-2-turno.html
+</link>
+<description>
+<a href='http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/justica-eleitoral-de-rr-precisa-de-50-mesarios-voluntarios-para-o-2-turno.html' alt='Justiça Eleitoral de RR precisa de 50 mesários voluntários para o 2º turno'><img border='0' src='http://s2.glbimg.com/cqfVujMFNzdqxWLaF-1PGPwt6Dg=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/mesarios_-_2014.jpg' alt='Justiça Eleitoral de RR precisa de 50 mesários voluntários para o 2º turno' title='Justiça Eleitoral de RR precisa de 50 mesários voluntários para o 2º turno' /></a><br />Atuar como mesário contará pontos em desempate no concurso do TRE. Voluntários ficarão na condição de reserva e poderão atuar no 2º turno.
+</description>
+<category>Eleições 2014 em Roraima</category>
+<pubDate>Wed, 15 Oct 2014 23:33:34 -0300</pubDate>
+</item>
+<item>
+<title>
+TRE-RR faz geração de mídias, carga e lacre das urnas para segundo turno
+</title>
+<link>
+http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/tre-rr-faz-geracao-de-midias-carga-e-lacre-das-urnas-para-segundo-turno.html
+</link>
+<description>
+<a href='http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/tre-rr-faz-geracao-de-midias-carga-e-lacre-das-urnas-para-segundo-turno.html' alt='TRE-RR faz geração de mídias, carga e lacre das urnas para segundo turno'><img border='0' src='http://s2.glbimg.com/4I7K_JKgxxtkJEmiI055vvS6A0E=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/procedimentos_nas_urnas_ocorrem_a_partir_desta_quinta_16.jpg' alt='TRE-RR faz geração de mídias, carga e lacre das urnas para segundo turno' title='TRE-RR faz geração de mídias, carga e lacre das urnas para segundo turno' /></a><br />No estado todo, são 1.310 urnas eletrônicas, sendo 250 de reserva. Segundo turno das eleições ocorre no dia 26 de outubro.
+</description>
+<category>Eleições 2014 em Roraima</category>
+<pubDate>Wed, 15 Oct 2014 23:10:06 -0300</pubDate>
+</item>
+<item>
+<title>
+PRE apura denúncias sobre abuso de poder em eleições de Rondônia
+</title>
+<link>
+http://g1.globo.com/ro/rondonia/eleicoes/2014/noticia/2014/10/pre-apura-denuncias-sobre-abuso-de-poder-em-eleicoes-de-rondonia.html
+</link>
+<description>
+<a href='http://g1.globo.com/ro/rondonia/eleicoes/2014/noticia/2014/10/pre-apura-denuncias-sobre-abuso-de-poder-em-eleicoes-de-rondonia.html' alt='PRE apura denúncias sobre abuso de poder em eleições de Rondônia'><img border='0' src='http://s2.glbimg.com/ciPCWDVTGEykKhMn74rUjBht7us=/90x68/s.glbimg.com/jo/g1/f/original/2012/12/03/img_9772.jpg' alt='PRE apura denúncias sobre abuso de poder em eleições de Rondônia' title='PRE apura denúncias sobre abuso de poder em eleições de Rondônia' /></a><br />Investigações são sobre abuso de poder econômico e outros crimes. 73 denúncias de propaganda irregular foram recebidas pela PRE-RO.
+</description>
+<category>Eleições 2014 em Rondônia</category>
+<pubDate>Wed, 15 Oct 2014 23:10:02 -0300</pubDate>
+</item>
+<item>
+<title>
+TRE de Roraima derruba liminar contra propaganda de Suely Campos
+</title>
+<link>
+http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/tre-de-roraima-derruba-liminar-contra-propaganda-de-suely-campos.html
+</link>
+<description>
+Ângela e Telmário podem ser citados em programa da candidata do PP. Decisão publicada hoje revoga liminar concedida no domingo (12).
+</description>
+<category>Eleições 2014 em Roraima</category>
+<pubDate>Wed, 15 Oct 2014 22:32:02 -0300</pubDate>
+</item>
+<item>
+<title>
+Expedito Júnior desconhece repasse de R$ 60 mil de empreiteira ao PSDB
+</title>
+<link>
+http://g1.globo.com/ro/rondonia/eleicoes/2014/noticia/2014/10/expedito-junior-desconhece-repasse-de-r-60-mil-de-empreiteira-ao-psdb.html
+</link>
+<description>
+<a href='http://g1.globo.com/ro/rondonia/eleicoes/2014/noticia/2014/10/expedito-junior-desconhece-repasse-de-r-60-mil-de-empreiteira-ao-psdb.html' alt='Expedito Júnior desconhece repasse de R$ 60 mil de empreiteira ao PSDB'><img border='0' src='http://s2.glbimg.com/9h_SrnVbQnAOGv_ncSQ4rU3Dxuo=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/expeditojro-15.10.14.jpg' alt='Expedito Júnior desconhece repasse de R$ 60 mil de empreiteira ao PSDB' title='Expedito Júnior desconhece repasse de R$ 60 mil de empreiteira ao PSDB' /></a><br />Candidato ao governo foi o 2º entrevistado pelo Jornal de Rondônia e pelo G1. Expedito também falou sobre transposição de servidores e precatórios.
+</description>
+<category>Eleições 2014 em Rondônia</category>
+<pubDate>Wed, 15 Oct 2014 22:09:13 -0300</pubDate>
+</item>
+<item>
+<title>
+TRE inicia preparação de urnas para segundo turno das eleições em AL
+</title>
+<link>
+http://g1.globo.com/al/alagoas/eleicoes/2014/noticia/2014/10/tre-inicia-preparacao-de-urnas-para-segundo-turno-das-eleicoes-em-al.html
+</link>
+<description>
+De acordo com tribunal, 7.900 urnas estão sendo atualizadas para o pleito. Programadores cadastram fotos e números de candidatos à presidência.
+</description>
+<category>Eleições 2014 em Alagoas</category>
+<pubDate>Wed, 15 Oct 2014 22:04:10 -0300</pubDate>
+</item>
+<item>
+<title>
+Regras do debate entre candidatos na TV Roraima são definidas em reunião
+</title>
+<link>
+http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/regras-do-debate-entre-candidatos-na-tv-roraima-sao-definidas-em-reuniao.html
+</link>
+<description>
+<a href='http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/regras-do-debate-entre-candidatos-na-tv-roraima-sao-definidas-em-reuniao.html' alt='Regras do debate entre candidatos na TV Roraima são definidas em reunião'><img border='0' src='http://s2.glbimg.com/_NIXsDR3sHW8bX6m4rgpHDthjM8=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/reuniao_ocorreu_nesta_quarta_15_entre_os_representantes_dos_candidatos_o_diretor_da_tv_roraima_e_a_gerente_de_jornalismo.jpg' alt='Regras do debate entre candidatos na TV Roraima são definidas em reunião' title='Regras do debate entre candidatos na TV Roraima são definidas em reunião' /></a><br />Debate do 2º turno entre Suely (PP) e Chico (PSB) será em 23 de outubro. Reunião ocorreu na sede da TV Roraima na tarde desta quarta-feira (15).
+</description>
+<category>Eleições 2014 em Roraima</category>
+<pubDate>Wed, 15 Oct 2014 21:49:02 -0300</pubDate>
+</item>
+<item>
+<title>
+Aprovação do governo Marconi Perillo é de 43%, diz Ibope em Goiás
+</title>
+<link>
+http://g1.globo.com/goias/eleicoes/2014/noticia/2014/10/aprovacao-do-governo-marconi-perillo-e-de-43-diz-ibope-em-goias.html
+</link>
+<description>
+Levantamento com 812 pessoas foi realizado entre 12 e 14 deste mês. Margem de erro é de 3 pontos percentuais para mais ou para menos.
+</description>
+<category>Eleições 2014 em Goias</category>
+<pubDate>Wed, 15 Oct 2014 21:18:58 -0300</pubDate>
+</item>
+<item>
+<title>
+Levy Fidelix anuncia apoio a Aécio Neves no segundo turno
+</title>
+<link>
+http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/levy-fidelix-anuncia-apoio-aecio-neves-no-segundo-turno.html
+</link>
+<description>
+<a href='http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/levy-fidelix-anuncia-apoio-aecio-neves-no-segundo-turno.html' alt='Levy Fidelix anuncia apoio a Aécio Neves no segundo turno'><img border='0' src='http://s2.glbimg.com/Nvc0rjiFdBSf7UNzFlDBlxELJHI=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/03/levy.jpg' alt='Levy Fidelix anuncia apoio a Aécio Neves no segundo turno' title='Levy Fidelix anuncia apoio a Aécio Neves no segundo turno' /></a><br />Candidato ficou em sétimo lugar no primeiro turno, com 0.43% dos votos. Segundo PRTB, partidos participam de ato de apoio a Aécio no domingo.
+</description>
+<category>Eleições 2014</category>
+<pubDate>Wed, 15 Oct 2014 21:15:52 -0300</pubDate>
+</item>
+<item>
+<title>
+Aprovação do governo Dilma é de 43%, aponta pesquisa Ibope
+</title>
+<link>
+http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aprovacao-do-governo-dilma-e-de-43-aponta-pesquisa-ibope.html
+</link>
+<description>
+<a href='http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aprovacao-do-governo-dilma-e-de-43-aponta-pesquisa-ibope.html' alt='Aprovação do governo Dilma é de 43%, aponta pesquisa Ibope'><img border='0' src='http://s2.glbimg.com/hqLg4AJ-X9fgTaf_DWmVVb5svnc=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/15.10_pesquisaibope_avaliacao.jpg' alt='Aprovação do governo Dilma é de 43%, aponta pesquisa Ibope' title='Aprovação do governo Dilma é de 43%, aponta pesquisa Ibope' /></a><br />Índice reúne entrevistados que avaliaram o governo como 'ótimo' ou 'bom'. Instituto ouviu eleitores entre os dias 12 e 14 de outubro.
+</description>
+<category>Eleições 2014</category>
+<pubDate>Wed, 15 Oct 2014 20:28:23 -0300</pubDate>
+</item>
+<item>
+<title>
+Aécio tem 51%, e Dilma, 49% dos votos válidos, aponta Ibope
+</title>
+<link>
+http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-51-e-dilma-49-dos-votos-validos-aponta-ibope.html
+</link>
+<description>
+<a href='http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-51-e-dilma-49-dos-votos-validos-aponta-ibope.html' alt='Aécio tem 51%, e Dilma, 49% dos votos válidos, aponta Ibope'><img border='0' src='http://s2.glbimg.com/hnTxgoAeRUdgDswwT48ZwgLeAis=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/15.10_pesquisaibope_rejeicao.jpg' alt='Aécio tem 51%, e Dilma, 49% dos votos válidos, aponta Ibope' title='Aécio tem 51%, e Dilma, 49% dos votos válidos, aponta Ibope' /></a><br />Levantamento com 3.010 eleitores foi feito entre os dias 12 e 14 de outubro. Margem de erro é de dois pontos percentuais, para mais ou para menos.
+</description>
+<category>Eleições 2014</category>
+<pubDate>Wed, 15 Oct 2014 20:25:17 -0300</pubDate>
+</item>
+<item>
+<title>
+Aécio acabará com programa cambial do BC se eleito, diz Fraga à Reuters
+</title>
+<link>
+http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/se-eleito-aecio-acabara-com-programa-cambial-do-bc-diz-fraga.html
+</link>
+<description>
+<a href='http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/se-eleito-aecio-acabara-com-programa-cambial-do-bc-diz-fraga.html' alt='Aécio acabará com programa cambial do BC se eleito, diz Fraga à Reuters'><img border='0' src='http://s2.glbimg.com/Ccxv5kYqZ_zPIlM2vnas0mnY-9I=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/miriam_leitao_3.png.jpg' alt='Aécio acabará com programa cambial do BC se eleito, diz Fraga à Reuters' title='Aécio acabará com programa cambial do BC se eleito, diz Fraga à Reuters' /></a><br />Ex-presidente do BC concedeu entrevista à agência por telefone. Fraga defendeu mudanças nas intervenções diárias no mercado cambial.
+</description>
+<category>Eleições 2014</category>
+<pubDate>Wed, 15 Oct 2014 20:24:26 -0300</pubDate>
+</item>
+<item>
+<title>
+Henrique Alves defende segurança pública 'ocupacional' no RN
+</title>
+<link>
+http://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2014/noticia/2014/10/henrique-alves-defende-seguranca-publica-ocupacional-no-rn.html
+</link>
+<description>
+Candidato do PMDB foi entrevistado nesta quarta no RNTV 2ª Edição. Série de entrevistas com candidatos ao governo foi ao ar nesta semana.
+</description>
+<category>Eleições 2014 no Rio Grande do Norte</category>
+<pubDate>Wed, 15 Oct 2014 19:56:36 -0300</pubDate>
+</item>
+<item>
+<title>
+Pezão não descarta UPPs no Norte do RJ: 'Carência muito grande', diz
+</title>
+<link>
+http://g1.globo.com/politica/eleicoes/2014/rj/noticia/2014/10/pezao-nao-descarta-upps-no-norte-do-rj-carencia-muito-grande-diz.html
+</link>
+<description>
+<a href='http://g1.globo.com/politica/eleicoes/2014/rj/noticia/2014/10/pezao-nao-descarta-upps-no-norte-do-rj-carencia-muito-grande-diz.html' alt='Pezão não descarta UPPs no Norte do RJ: 'Carência muito grande', diz'><img border='0' src='http://s2.glbimg.com/hwRNwK6yffWbCh_XsivkdcapkSY=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/pezao.jpg' alt='Pezão não descarta UPPs no Norte do RJ: 'Carência muito grande', diz' title='Pezão não descarta UPPs no Norte do RJ: 'Carência muito grande', diz' /></a><br />Candidato do PMDB à reeleição fez campanha em Macaé. Pezão também participou de sabatina em televisão no Rio.
+</description>
+<category>Eleições 2014 no RJ</category>
+<pubDate>Wed, 15 Oct 2014 19:46:16 -0300</pubDate>
+</item>
+<item>
+<title>
+Confira como foi o dia dos candidatos ao governo do RS nesta quarta (15)
+</title>
+<link>
+http://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2014/noticia/2014/10/confira-como-foi-o-dia-dos-candidatos-ao-governo-do-rs-nesta-quinta-16.html
+</link>
+<description>
+<a href='http://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2014/noticia/2014/10/confira-como-foi-o-dia-dos-candidatos-ao-governo-do-rs-nesta-quinta-16.html' alt='Confira como foi o dia dos candidatos ao governo do RS nesta quarta (15)'><img border='0' src='http://s2.glbimg.com/nIkRmsE1LQmwdkNCoWzeMr2PfZo=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/tarso_300.jpg' alt='Confira como foi o dia dos candidatos ao governo do RS nesta quarta (15)' title='Confira como foi o dia dos candidatos ao governo do RS nesta quarta (15)' /></a><br />José Ivo Sartori (PMDB) e Tarso Genro (PT) disputam segundo turno. Eleição do dia 26 de outubro vai definir próximo governador do estado.
+</description>
+<category>Eleições 2014 no Rio Grande do Sul</category>
+<pubDate>Wed, 15 Oct 2014 19:43:01 -0300</pubDate>
+</item>
+<item>
+<title>
+Dilma reafirma críticas a Aécio e diz que ele tinha 'blindagem' em Minas
+</title>
+<link>
+http://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/10/dilma-reafirma-criticas-aecio-e-diz-que-ele-tinha-blindagem-em-minas.html
+</link>
+<description>
+<a href='http://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/10/dilma-reafirma-criticas-aecio-e-diz-que-ele-tinha-blindagem-em-minas.html' alt='Dilma reafirma críticas a Aécio e diz que ele tinha 'blindagem' em Minas'><img border='0' src='http://s2.glbimg.com/oBFKXX_-1QFUuzBLh9RecO4Srz0=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/dilmasp2.jpg' alt='Dilma reafirma críticas a Aécio e diz que ele tinha 'blindagem' em Minas' title='Dilma reafirma críticas a Aécio e diz que ele tinha 'blindagem' em Minas' /></a><br />Petista voltou a apontar problemas na educação, saúde e administração. Em encontro com professores, defendeu salário maior e melhor formação.
+</description>
+<category>Eleições 2014 em São Paulo</category>
+<pubDate>Wed, 15 Oct 2014 19:39:55 -0300</pubDate>
+</item>
+<item>
+<title>
+Candidato Helder Barbalho participa de entrevista ao vivo no JL2
+</title>
+<link>
+http://g1.globo.com/pa/para/eleicoes/2014/noticia/2014/10/candidato-helder-barbalho-participa-de-entrevista-ao-vivo-no-jl2.html
+</link>
+<description>
+Candidato não disse se é contra ou a favor da divisão do estado. Helder disse que irá buscar apoio de senadores do PMDB, PT e PSDB.
+</description>
+<category>Eleições 2014 no Pará</category>
+<pubDate>Wed, 15 Oct 2014 19:16:50 -0300</pubDate>
+</item>
+<item>
+<title>
+MP Eleitoral envia caso de deputado fotografado na urna à PGR
+</title>
+<link>
+http://g1.globo.com/ap/amapa/eleicoes/2014/noticia/2014/10/mp-eleitoral-envia-caso-de-deputado-fotografado-na-urna-pgr.html
+</link>
+<description>
+<a href='http://g1.globo.com/ap/amapa/eleicoes/2014/noticia/2014/10/mp-eleitoral-envia-caso-de-deputado-fotografado-na-urna-pgr.html' alt='MP Eleitoral envia caso de deputado fotografado na urna à PGR'><img border='0' src='http://s2.glbimg.com/5CjlbKHgc9JI_FfuUgj75tm6Zq0=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/05/vinicius_2.jpg' alt='MP Eleitoral envia caso de deputado fotografado na urna à PGR' title='MP Eleitoral envia caso de deputado fotografado na urna à PGR' /></a><br />Caso poderá ser julgado pelo Supremo Tribunal Federal, diz MPE. Deputado federal foi fotografado na cabina de votação em 5 de outubro.
+</description>
+<category>Eleições 2014 no Amapá</category>
+<pubDate>Wed, 15 Oct 2014 19:12:44 -0300</pubDate>
+</item>
+<item>
+<title>
+Ibope, votos válidos: Marconi Perillo tem 56% e Iris Rezende, 44%
+</title>
+<link>
+http://g1.globo.com/goias/eleicoes/2014/noticia/2014/10/ibope-votos-validos-marconi-perillo-tem-56-e-iris-rezende-44.html
+</link>
+<description>
+Levantamento com 812 pessoas foi realizado entre 12 e 14 deste mês. Margem de erro é de 3 pontos percentuais para mais ou para menos.
+</description>
+<category>Eleições 2014 em Goias</category>
+<pubDate>Wed, 15 Oct 2014 19:10:42 -0300</pubDate>
+</item>
+<item>
+<title>
+José Ivo Sartori é entrevistado pelo RBS Notícias; reveja a íntegra
+</title>
+<link>
+http://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2014/noticia/2014/10/candidato-ao-segundo-turno-no-rs-sartori-e-entrevistado-no-rbs-noticias.html
+</link>
+<description>
+<a href='http://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2014/noticia/2014/10/candidato-ao-segundo-turno-no-rs-sartori-e-entrevistado-no-rbs-noticias.html' alt='José Ivo Sartori é entrevistado pelo RBS Notícias; reveja a íntegra'><img border='0' src='http://s2.glbimg.com/BZIHFMk_HORBlMBuFYouf7lyQQ0=/90x68/top/s.glbimg.com/jo/g1/f/original/2014/10/15/img_9781.jpg' alt='José Ivo Sartori é entrevistado pelo RBS Notícias; reveja a íntegra' title='José Ivo Sartori é entrevistado pelo RBS Notícias; reveja a íntegra' /></a><br />Após participar no 1º turno, candidato do PMDB voltou a ser sabatinado. Na segunda-feira, Tarso Genro, do PT, também foi ouvido no programa.
+</description>
+<category>Eleições 2014 no Rio Grande do Sul</category>
+<pubDate>Wed, 15 Oct 2014 19:06:46 -0300</pubDate>
+</item>
+<item>
+<title>
+Ibope, votos válidos: Dilma tem 65% e Aécio, 35%, no Rio Grande do Norte
+</title>
+<link>
+http://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2014/noticia/2014/10/ibope-votos-validos-dilma-tem-65-e-aecio-35-no-rio-grande-do-norte.html
+</link>
+<description>
+Levantamento com 812 pessoas foi realizado entre 12 e 14 de outubro. Margem de erro é de 3 pontos percentuais para mais ou para menos.
+</description>
+<category>Eleições 2014 no Rio Grande do Norte</category>
+<pubDate>Wed, 15 Oct 2014 19:06:23 -0300</pubDate>
+</item>
+<item>
+<title>
+Ibope, votos válidos: Robinson tem 54% e Henrique, 46%, no RN
+</title>
+<link>
+http://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2014/noticia/2014/10/ibope-votos-validos-robinson-tem-54-e-henrique-46-no-rn.html
+</link>
+<description>
+Levantamento com 812 pessoas foi realizado entre 12 e 14 de outubro. Margem de erro é de 3 pontos percentuais para mais ou para menos
+</description>
+<category>Eleições 2014 no Rio Grande do Norte</category>
+<pubDate>Wed, 15 Oct 2014 19:06:19 -0300</pubDate>
+</item>
+<item>
+<title>
+Entrevistas de Dilma e Aécio no Jornal Nacional são canceladas
+</title>
+<link>
+http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/entrevistas-de-dilma-e-aecio-no-jornal-nacional-sao-canceladas.html
+</link>
+<description>
+Participação de presidenciáveis ocorreria nas próximas segunda e terça. Candidatos pretendiam ampliar o tempo das respostas, e não houve acordo.
+</description>
+<category>Eleições 2014</category>
+<pubDate>Wed, 15 Oct 2014 18:57:56 -0300</pubDate>
+</item>
+<item>
+<title>
+Carros com propaganda eleitoral são flagrados na Câmara de Boa Vista
+</title>
+<link>
+http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/carros-com-propaganda-eleitoral-sao-flagrados-na-camara-de-boa-vista.html
+</link>
+<description>
+<a href='http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/carros-com-propaganda-eleitoral-sao-flagrados-na-camara-de-boa-vista.html' alt='Carros com propaganda eleitoral são flagrados na Câmara de Boa Vista'><img border='0' src='http://s2.glbimg.com/H9qA3tqXXUdc47K5l3MHavxJr6k=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/carros_camara.jpg' alt='Carros com propaganda eleitoral são flagrados na Câmara de Boa Vista' title='Carros com propaganda eleitoral são flagrados na Câmara de Boa Vista' /></a><br /> MPE recomendou proibição de veículos adesivados em órgão públicos. Assessoria da Casa informou que vai 'chamar a atenção' dos proprietários.
+</description>
+<category>Eleições 2014 em Roraima</category>
+<pubDate>Wed, 15 Oct 2014 18:36:24 -0300</pubDate>
+</item>
+<item>
+<title>
+TRE aprova envio de tropas federais para Patos, PB; pedido vai para o TSE
+</title>
+<link>
+http://g1.globo.com/pb/paraiba/eleicoes/2014/noticia/2014/10/tre-aprova-envio-de-tropas-federais-para-patos-pb-pedido-vai-para-o-tse.html
+</link>
+<description>
+Solicitação foi acatada de forma unânime pela Corte. No 1º turno na PB, só Campina Grande contou com reforço das tropas.
+</description>
+<category>Eleições 2014 na Paraíba</category>
+<pubDate>Wed, 15 Oct 2014 18:22:27 -0300</pubDate>
+</item>
+<item>
+<title>
+Veja a agenda dos candidatos ao governo do RN para esta quinta (16)
+</title>
+<link>
+http://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2014/noticia/2014/10/veja-agenda-dos-candidatos-ao-governo-do-rn-para-esta-quinta-16.html
+</link>
+<description>
+<a href='http://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2014/noticia/2014/10/veja-agenda-dos-candidatos-ao-governo-do-rn-para-esta-quinta-16.html' alt='Veja a agenda dos candidatos ao governo do RN para esta quinta (16)'><img border='0' src='http://s2.glbimg.com/II4-pvcIW5rej9VfeVocpO75u_k=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/05/montagem_4.jpg' alt='Veja a agenda dos candidatos ao governo do RN para esta quinta (16)' title='Veja a agenda dos candidatos ao governo do RN para esta quinta (16)' /></a><br />Henrique Alves e Robinson Faria concorrem ao cargo de governador. Acompanhe a programação dos candidatos no G1.
+</description>
+<category>Eleições 2014 no Rio Grande do Norte</category>
+<pubDate>Wed, 15 Oct 2014 18:20:48 -0300</pubDate>
+</item>
+<item>
+<title>
+Aécio tem 51%, e Dilma, 49% dos votos válidos, aponta Datafolha
+</title>
+<link>
+http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-51-e-dilma-49-dos-votos-validos-aponta-datafolha.html
+</link>
+<description>
+<a href='http://g1.globo.com/politica/eleicoes/2014/noticia/2014/10/aecio-tem-51-e-dilma-49-dos-votos-validos-aponta-datafolha.html' alt='Aécio tem 51%, e Dilma, 49% dos votos válidos, aponta Datafolha'><img border='0' src='http://s2.glbimg.com/capKR_e16TruE4i-DMQ4djlYQRs=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/15.10_pesquisadatafolha_com_rejeicao.jpg' alt='Aécio tem 51%, e Dilma, 49% dos votos válidos, aponta Datafolha' title='Aécio tem 51%, e Dilma, 49% dos votos válidos, aponta Datafolha' /></a><br />Levantamento com 9.081 eleitores foi feito nos dias 14 e 15 de outubro. Margem de erro é de dois pontos percentuais, para mais ou para menos.
+</description>
+<category>Eleições 2014</category>
+<pubDate>Wed, 15 Oct 2014 18:12:31 -0300</pubDate>
+</item>
+<item>
+<title>
+TSE aprova envio de tropas federais para o 2º turno em dez cidades de SE
+</title>
+<link>
+http://g1.globo.com/se/sergipe/eleicoes/2014/noticia/2014/10/tse-aprova-envio-de-tropas-federais-para-o-2-turno-em-dez-cidades-de-se.html
+</link>
+<description>
+Objetivo é garantir a normalidade das eleições em 26 de outubro. Em Sergipe, as forças federais atuarão também em Canindé.
+</description>
+<category>Eleições 2014 em Sergipe</category>
+<pubDate>Wed, 15 Oct 2014 17:38:51 -0300</pubDate>
+</item>
+<item>
+<title>
+'Quero ser lembrado como presidente que revolucionou educação', diz Aécio
+</title>
+<link>
+http://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/10/quero-ser-lembrado-como-presidente-que-revolucionou-educacao-diz-aecio.html
+</link>
+<description>
+<a href='http://g1.globo.com/sao-paulo/eleicoes/2014/noticia/2014/10/quero-ser-lembrado-como-presidente-que-revolucionou-educacao-diz-aecio.html' alt=''Quero ser lembrado como presidente que revolucionou educação', diz Aécio'><img border='0' src='http://s2.glbimg.com/7iPz0znonqL1m2WyvvKWhZbMv9Y=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/aecio1.jpg' alt=''Quero ser lembrado como presidente que revolucionou educação', diz Aécio' title=''Quero ser lembrado como presidente que revolucionou educação', diz Aécio' /></a><br />Em ato de campanha, candidato lembrou Dia dos Professores. Ele se encontrou com prefeitos aliados em São Paulo.
+</description>
+<category>Eleições 2014 em São Paulo</category>
+<pubDate>Wed, 15 Oct 2014 14:26:36 -0300</pubDate>
+</item>
+<item>
+<title>
+Frejat participa de série de entrevistas do DFTV com candidatos ao GDF
+</title>
+<link>
+http://g1.globo.com/distrito-federal/eleicoes/2014/noticia/2014/10/frejat-participa-de-serie-de-entrevistas-do-dftv-com-candidatos-ao-gdf.html
+</link>
+<description>
+Nome do PR na corrida ao Buriti participa do quadro nesta quarta. Série teve inicio na terça, com o candidato do PSB, Rodrigo Rollemberg.
+</description>
+<category>Eleições 2014 no Distrito Federal</category>
+<pubDate>Wed, 15 Oct 2014 14:22:02 -0300</pubDate>
+</item>
+<item>
+<title>
+Urnas eletrônicas passam por monitoramento para o segundo turno
+</title>
+<link>
+http://g1.globo.com/se/sergipe/eleicoes/2014/noticia/2014/10/urnas-eletronicas-passam-monitoramento-para-o-segundo-turno.html
+</link>
+<description>
+Trabalho foi realizado por técnicos de informática com auxilio do TRE. Em Sergipe, os eleitores irão votar para escolher o Presidente.
+</description>
+<category>Eleições 2014 em Sergipe</category>
+<pubDate>Wed, 15 Oct 2014 12:43:39 -0300</pubDate>
+</item>
+<item>
+<title>
+PSOL decide não apoiar nenhum candidato no 2º turno das eleições
+</title>
+<link>
+http://g1.globo.com/politica/eleicoes/2014/go/noticia/2014/10/psol-decide-nao-apoiar-nenhum-candidato-no-2-turno-das-eleicoes.html
+</link>
+<description>
+<a href='http://g1.globo.com/politica/eleicoes/2014/go/noticia/2014/10/psol-decide-nao-apoiar-nenhum-candidato-no-2-turno-das-eleicoes.html' alt='PSOL decide não apoiar nenhum candidato no 2º turno das eleições'><img border='0' src='http://s2.glbimg.com/0QpmnsGrANMczi3rBE1XIerd_UQ=/90x68/s.glbimg.com/jo/g1/f/original/2014/09/30/professor-weslei-debate.jpg' alt='PSOL decide não apoiar nenhum candidato no 2º turno das eleições' title='PSOL decide não apoiar nenhum candidato no 2º turno das eleições' /></a><br />Partido do ex-candidato Prof. Weslei diz que legendas 'não os representam'. Marconi Perillo (PSDB) e Iris Rezende (PMDB) disputam o governo de Goiás.
+</description>
+<category>Eleições 2014 em GO</category>
+<pubDate>Wed, 15 Oct 2014 12:23:42 -0300</pubDate>
+</item>
+<item>
+<title>
+Crivella diz que não iria à Sapucaí no carnaval para priorizar Saúde no RJ
+</title>
+<link>
+http://g1.globo.com/rio-de-janeiro/eleicoes/2014/noticia/2014/10/crivella-diz-que-nao-iria-sapucai-no-carnaval-para-priorizar-saude-no-rj.html
+</link>
+<description>
+Candidato do PRB crê que políticos ficam fora da 'realidade das ruas'. Ele descartou também financiar tanto Marcha para Jesus quanto LGBT.
+</description>
+<category>Eleições 2014 no Rio de Janeiro</category>
+<pubDate>Wed, 15 Oct 2014 12:14:58 -0300</pubDate>
+</item>
+<item>
+<title>
+No AP, carro de candidato à reeleição é quebrado durante protesto
+</title>
+<link>
+http://g1.globo.com/ap/amapa/eleicoes/2014/noticia/2014/10/no-ap-carro-de-candidato-reeleicao-e-quebrado-durante-protesto.html
+</link>
+<description>
+<a href='http://g1.globo.com/ap/amapa/eleicoes/2014/noticia/2014/10/no-ap-carro-de-candidato-reeleicao-e-quebrado-durante-protesto.html' alt='No AP, carro de candidato à reeleição é quebrado durante protesto'><img border='0' src='http://s2.glbimg.com/OZu5OC3S5KV5SlpMmXWPzVg1qr4=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/foto_vidro_quebrado.jpg' alt='No AP, carro de candidato à reeleição é quebrado durante protesto' title='No AP, carro de candidato à reeleição é quebrado durante protesto' /></a><br />Episódio ocorreu no Centro Diocesano das Pastorais e Cultura, em Macapá. Um vigilante foi preso durante protesto e liberado em seguida.
+</description>
+<category>Eleições 2014 no Amapá</category>
+<pubDate>Wed, 15 Oct 2014 11:53:08 -0300</pubDate>
+</item>
+<item>
+<title>
+Em entrevista, Sartori diz que modelo de concessão de pedágios lhe agrada
+</title>
+<link>
+http://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2014/noticia/2014/10/em-entrevista-sartori-diz-que-modelo-de-concessao-de-pedagios-lhe-agrada.html
+</link>
+<description>
+<a href='http://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2014/noticia/2014/10/em-entrevista-sartori-diz-que-modelo-de-concessao-de-pedagios-lhe-agrada.html' alt='Em entrevista, Sartori diz que modelo de concessão de pedágios lhe agrada'><img border='0' src='http://s2.glbimg.com/5lqAXkTWIe5qGQEeePHfhB2sKgc=/90x68/s.glbimg.com/jo/g1/f/original/2014/10/15/sartori1a.jpg' alt='Em entrevista, Sartori diz que modelo de concessão de pedágios lhe agrada' title='Em entrevista, Sartori diz que modelo de concessão de pedágios lhe agrada' /></a><br />Candidato do PMDB ao governo concedeu entrevista à Rádio Gaúcha. José Ivo Sartori falou também sobre saúde, educação e finanças.
+</description>
+<category>Eleições 2014 no Rio Grande do Sul</category>
+<pubDate>Wed, 15 Oct 2014 10:28:20 -0300</pubDate>
+</item>
+<item>
+<title>
+Casagrande divulga data para anunciar equipe de transição no ES
+</title>
+<link>
+http://g1.globo.com/espirito-santo/eleicoes/2014/noticia/2014/10/casagrande-divulga-data-para-anunciar-equipe-de-transicao-no-es.html
+</link>
+<description>
+<a href='http://g1.globo.com/espirito-santo/eleicoes/2014/noticia/2014/10/casagrande-divulga-data-para-anunciar-equipe-de-transicao-no-es.html' alt='Casagrande divulga data para anunciar equipe de transição no ES'><img border='0' src='http://s2.glbimg.com/jymzrxChWtytCG_6_KBzfDVvd68=/90x68/s.glbimg.com/jo/g1/f/original/2014/08/13/casagrande.jpg' alt='Casagrande divulga data para anunciar equipe de transição no ES' title='Casagrande divulga data para anunciar equipe de transição no ES' /></a><br />Anúncio vai ser feito nesta sexta-feira (17), segundo o governador. Time terá missão de facilitar acesso a informações à equipe de novo eleito.
+</description>
+<category>Eleições 2014 no Espírito Santo</category>
+<pubDate>Wed, 15 Oct 2014 10:09:24 -0300</pubDate>
+</item>
+<item>
+<title>
+Confira a agenda desta quarta (15) dos candidatos ao Governo de RR
+</title>
+<link>
+http://g1.globo.com/rr/roraima/eleicoes/2014/noticia/2014/10/confira-agenda-desta-quarta-15-dos-candidatos-ao-governo-de-rr.html
+</link>
+<description>
+Acompanhe a programação diária dos candidatos no Portal G1. Políticos cumprem cronograma de eventos na capital e no interior.
+</description>
+<category>Eleições 2014 em Roraima</category>
+<pubDate>Wed, 15 Oct 2014 09:29:55 -0300</pubDate>
+</item>
+<item>
+<title>
+Veja a agenda dos candidatos ao governo do AC nesta quarta-feira (15)
+</title>
+<link>
+http://g1.globo.com/ac/acre/eleicoes/2014/noticia/2014/10/veja-agenda-dos-candidatos-ao-governo-do-ac-nesta-quarta-feira-15.html
+</link>
+<description>
+Segundo turno ocorre no dia 26 outubro. Acompanhe a programação dos candidatos no G1.
+</description>
+<category>Eleições 2014 no Acre</category>
+<pubDate>Wed, 15 Oct 2014 09:29:02 -0300</pubDate>
+</item>
+<item>
+<title>
+Expedito Júnior será entrevistado pelo G1 nesta quarta; envie perguntas
+</title>
+<link>
+http://g1.globo.com/ro/rondonia/eleicoes/2014/noticia/2014/10/expedito-junior-sera-entrevistado-pelo-g1-nesta-quarta-envie-perguntas.html
+</link>
+<description>
+<a href='http://g1.globo.com/ro/rondonia/eleicoes/2014/noticia/2014/10/expedito-junior-sera-entrevistado-pelo-g1-nesta-quarta-envie-perguntas.html' alt='Expedito Júnior será entrevistado pelo G1 nesta quarta; envie perguntas'><img border='0' src='http://s2.glbimg.com/TpDinvDmXp0_x_oX3BLWMtyO9wM=/90x68/s.glbimg.com/jo/g1/f/original/2014/07/16/expeditojunior.jpg' alt='Expedito Júnior será entrevistado pelo G1 nesta quarta; envie perguntas' title='Expedito Júnior será entrevistado pelo G1 nesta quarta; envie perguntas' /></a><br />Entrevista será transmitida ao vivo, após o Jornal de Rondônia. Sabatina terá duração de 10 minutos; internautas podem enviar perguntas.
+</description>
+<category>Eleições 2014 em Rondônia</category>
+<pubDate>Wed, 15 Oct 2014 09:11:47 -0300</pubDate>
+</item>
+</channel>
+</rss>
