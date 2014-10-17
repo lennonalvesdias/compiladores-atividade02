@@ -65,9 +65,9 @@ Esse ano, teremos mais uma eleição decidida em segundo turno para a presidênc
 
 \begin{frame}
 \frametitle{Conjunto de Textos}
-As eleições de 2014 foram realizadas no dia 05 de outubro, onde elegeu governadores, senadores e deputados.
+Paragrafo 1.
 \\~\\
-Esse ano, teremos mais uma eleição decidida em segundo turno para a presidência do Brasil, a mesma irá ocorrer entre o candidato de oposição Aécio Neves e a atual presidenta, Dilma Rousseff.
+Paragrafo 2.
 \end{frame}
 
 %----------------------------------------------------------------------------------------
@@ -76,19 +76,109 @@ Esse ano, teremos mais uma eleição decidida em segundo turno para a presidênc
 
 \begin{frame}
 \frametitle{Proposta e Objetivo}
-As eleições de 2014 foram realizadas no dia 05 de outubro, onde elegeu governadores, senadores e deputados.
-\\~\\
-Esse ano, teremos mais uma eleição decidida em segundo turno para a presidência do Brasil, a mesma irá ocorrer entre o candidato de oposição Aécio Neves e a atual presidenta, Dilma Rousseff.
+\begin{block}{Proposta}
+Com a aproximação do segundo turno das eleições e o clima entre os candidatos cada vez mais tenso, nós buscamos através de sites e feeds, notícias envolvendo o nome do candidato Aécio Neves e da candidata Dilma Rousseff.
+\end{block}
+
+\begin{block}{Objetivo}
+O objetivo é, através de uma análise léxica sobre o conteúdo obtido através das informações obtidas, verificar a presência ou ausència da cada candidato, entre os portais de notícias escolhido. Analisamos também palavras chave, como "saúde", "educação" e "segurança", buscando as importâncias desses dados e conferindo a parcialidade de cada central de notícias.
+\end{block}
 \end{frame}
 
 %----------------------------------------------------------------------------------------
-%	Slide N - Final
+%	Slide X - Análise Léxica
+%----------------------------------------------------------------------------------------
+
+\begin{frame}[fragile]
+\frametitle{Análise Léxica}
+\begin{example}[Palavras Chave]
+\begin{verbatim}
+SAUDE						saúde|saude
+EDUCACAO					educação|educacao
+SEGURANCA					segurança|seguranca\end{verbatim}
+\end{example}
+\end{frame}
+
+%----------------------------------------------------------------------------------------
+%	Slide X - Análise Léxica
+%----------------------------------------------------------------------------------------
+
+\begin{frame}[fragile]
+\frametitle{Análise Léxica}
+\begin{example}[Busca candidato Aécio]
+\begin{verbatim}
+BUSCAAECIO 					aécio|aecio
+SAUDEAECIO 					({SAUDE}.*{BUSCAAECIO})
+							|({BUSCAAECIO}.*{SAUDE})
+EDUCACAOAECIO				({EDUCACAO}.*{BUSCAAECIO})
+							|({BUSCAAECIO}.*{EDUCACAO})
+SEGURANCAAECIO				({SEGURANCA}.*{BUSCAAECIO})
+							|({BUSCAAECIO}.*{SEGURANCA})
+
+SAUDEEDUCACAOAECIO			({SAUDEAECIO}{EDUCACAOAECIO})
+							|({EDUCACAOAECIO}{SAUDEAECIO})
+SAUDESEGURANCAAECIO			({SAUDEAECIO}{SEGURANCAAECIO})
+							|({SEGURANCAAECIO}|{SAUDEAECIO})
+EDUCACAOSEGURANCAAECIO		({EDUCACAOAECIO}{SEGURANCAAECIO})
+							|({SEGURANCAAECIO}|{EDUCACAOAECIO})\end{verbatim}
+\end{example}
+\end{frame}
+
+%----------------------------------------------------------------------------------------
+%	Slide X - Análise Léxica
+%----------------------------------------------------------------------------------------
+
+\begin{frame}[fragile]
+\frametitle{Análise Léxica}
+\begin{example}[Busca candidata Dilma]
+\begin{verbatim}
+BUSCADILMA 					dilma
+SAUDEDILMA 					({SAUDE}.*{BUSCADILMA})
+|({BUSCADILMA}.*{SAUDE})
+EDUCACAODILMA				({EDUCACAO}.*{BUSCADILMA})
+|({BUSCADILMA}.*{EDUCACAO})
+SEGURANCADILMA				({SEGURANCA}.*{BUSCADILMA})
+|({BUSCADILMA}.*{SEGURANCA})
+
+SAUDEEDUCACAODILMA			({SAUDEDILMA}{EDUCACAODILMA})
+|({EDUCACAODILMA}{SAUDEDILMA})
+SAUDESEGURANCADILMA			({SAUDEDILMA}{SEGURANCADILMA})
+|({SEGURANCADILMA}{SAUDEDILMA})
+EDUCACAOSEGURANCADILMA		({EDUCACAODILMA}{SEGURANCADILMA})
+|({SEGURANCADILMA}{EDUCACAODILMA})\end{verbatim}
+\end{example}
+\end{frame}
+
+%----------------------------------------------------------------------------------------
+%	Slide X - Tabela de Símbolos
 %----------------------------------------------------------------------------------------
 
 \begin{frame}
-\Huge{\centerline{Obrigado!}}
+\frametitle{Tabela de Símbolos}
+Paragrafo 1.
+\\~\\
+Paragrafo 2.
+\end{frame}
+
+%----------------------------------------------------------------------------------------
+%	Slide X - Análise dos Resultados
+%----------------------------------------------------------------------------------------
+
+\begin{frame}
+\frametitle{Análise dos Resultados}
+Paragrafo 1.
+\\~\\
+Paragrafo 2.
+\end{frame}
+
+%----------------------------------------------------------------------------------------
+%	Slide X - Final
+%----------------------------------------------------------------------------------------
+
+\begin{frame}
+\Huge{\centerline{Obrigado ;)}}
 \end{frame}
 
 %----------------------------------------------------------------------------------------
 
-\end{document} 
+\end{document}
