@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Maquiavel - Política - VEJA.com</title>
+	<atom:link href="http://veja.abril.com.br/blog/politica/feed/" rel="self" type="application/rss+xml" />
+	<link>http://veja.abril.com.br/blog/politica</link>
+	<description>Notícias sobre os bastidores da política brasileira</description>
+	<lastBuildDate>Thu, 05 Dec 2013 15:44:45 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.6.1</generator>
+		<item>
+		<title>Dirceu quer ser o primeiro blogueiro-presidiário do Brasil</title>
+		<link>http://veja.abril.com.br/blog/politica/justica/dirceu-quer-ser-o-primeiro-blogueiro-presidiario-do-brasil/</link>
+		<comments>http://veja.abril.com.br/blog/politica/justica/dirceu-quer-ser-o-primeiro-blogueiro-presidiario-do-brasil/#comments</comments>
+		<pubDate>Thu, 05 Dec 2013 15:43:49 +0000</pubDate>
+		<dc:creator>snavarro</dc:creator>
+				<category><![CDATA[Julgamento do mensalão]]></category>
+		<category><![CDATA[Justiça]]></category>
+		<category><![CDATA[STF]]></category>
+		<category><![CDATA[josé dirceu]]></category>
+		<category><![CDATA[julgamento do mensalão]]></category>
+		<category><![CDATA[mensalao]]></category>
+		<category><![CDATA[pt]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85334</guid>
+		<description><![CDATA[Preso desde novembro no Complexo Penitenciário da Papuda, em Brasília, o ex-ministro José Dirceu ampliou sua lista de pedidos à Justiça: além de trabalhar como gerente de hotel, com salário estipulado em 20 000 reais, ele quer publicar textos em seu blog e receber diariamente jornais e revistas em sua cela. O pedido já foi feito à Vara [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg"><img class="aligncenter size-full wp-image-65671" alt="tarja-julgamento-mensalao" src="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg" width="620" height="40" /></a>Preso desde novembro no Complexo Penitenciário da Papuda, em Brasília, o ex-ministro José Dirceu ampliou sua lista de pedidos à Justiça: além de trabalhar como gerente de hotel, com salário estipulado em 20 000 reais, ele quer publicar textos em seu blog e receber diariamente jornais e revistas em sua cela. O pedido já foi feito à Vara de Execuções Penais do Distrito Federal. Ao elaborar o pleito, a defesa do petista se baseou na Lei de Execução Penal, que prevê como direito do presidiário contato com o mundo exterior por meio de correspondência escrita, de leitura e de outros meios de informação, desde que “não comprometam a moral e os bons costumes”.</p>
+<p>Em tempo: o &#8220;Blog do Zé&#8221; segue no ar, atualizado diariamente com conteúdo em defesa dos mensaleiros encarcerados.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/justica/dirceu-quer-ser-o-primeiro-blogueiro-presidiario-do-brasil/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Ministra do STF nega habeas corpus a mensaleiros Pedro Corrêa e Bispo Rodrigues</title>
+		<link>http://veja.abril.com.br/blog/politica/uncategorized/ministra-do-stf-nega-habeas-corpus-a-mensaleiros-pedro-correa-e-bispo-rodrigues/</link>
+		<comments>http://veja.abril.com.br/blog/politica/uncategorized/ministra-do-stf-nega-habeas-corpus-a-mensaleiros-pedro-correa-e-bispo-rodrigues/#comments</comments>
+		<pubDate>Wed, 04 Dec 2013 23:56:59 +0000</pubDate>
+		<dc:creator>snavarro</dc:creator>
+				<category><![CDATA[Julgamento do mensalão]]></category>
+		<category><![CDATA[Justiça]]></category>
+		<category><![CDATA[STF]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[julgamento do mensalão]]></category>
+		<category><![CDATA[mensalao]]></category>
+		<category><![CDATA[stf]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85330</guid>
+		<description><![CDATA[A ministra Rosa Weber, do Supremo Tribunal Federal (STF), negou nesta quarta-feira, sem análise de mérito, dois pedidos dos ex-deputados Pedro Corrêa (PP-PE) e Carlos “Bispo” Rodrigues (PL-RJ), que tentavam, por meio de habeas corpus, evitar que fossem presos. Ambos foram condenados por participar do escândalo do mensalão e aguardam ordens de prisão para começar [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg"><img class="aligncenter size-full wp-image-65671" alt="tarja-julgamento-mensalao" src="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg" width="620" height="40" /></a></p>
+<p>A ministra Rosa Weber, do Supremo Tribunal Federal (STF), negou nesta quarta-feira, sem análise de mérito, dois pedidos dos ex-deputados Pedro Corrêa (PP-PE) e Carlos “Bispo” Rodrigues (PL-RJ), que tentavam, por meio de habeas corpus, evitar que fossem presos. Ambos foram condenados por participar do escândalo do mensalão e aguardam ordens de prisão para começar a cumprir suas penas.</p>
+<p><strong>Leia também:</strong><br />
+<strong><a href="http://veja.abril.com.br/noticia/brasil/proximas-prisoes-de-mensaleiros-devem-ser-feitas-em-bloco">Barbosa deve decretar próximas prisões em bloco</a></strong><br />
+<a href="http://veja.abril.com.br/acervodigital/home.aspx?edicao=2349&amp;pg=80"><strong>&#8220;Não existe essa história de preso político&#8221;, diz Pedro Corrêa</strong></a></p>
+<p>A defesa de Corrêa alegava que o ex-deputado não deveria ser preso, apesar do trânsito em julgado, enquanto todos os ministros do Supremo não julgassem a possibilidade de seus embargos infringentes serem admitidos. O ministro Joaquim Barbosa rejeitou, em decisão individual, a possibilidade dos infringentes porque o mensaleiro não tinha quatro votos a seu favor, requisito previsto no regimento do STF para a admissão do recurso. O ex-parlamentar foi condenado a sete anos e dois meses de prisão, em regime semiaberto, por corrupção e lavagem de dinheiro.</p>
+<p>O ex-deputado Bispo Rodrigues também alegava que a pena não deveria ser executada até que o plenário se pronunciasse definitivamente sobre a possibilidade de embargos infringentes com menos de quatro votos. Ele foi condenado a seis anos e três meses por lavagem e corrupção.</p>
+<p><em>(Laryssa Borges, de Brasília)</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/uncategorized/ministra-do-stf-nega-habeas-corpus-a-mensaleiros-pedro-correa-e-bispo-rodrigues/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pedra no sapato do governo, Cunha é reeleito líder do PMDB</title>
+		<link>http://veja.abril.com.br/blog/politica/camara-dos-deputados/pedra-no-sapato-do-governo-cunha-e-reeleito-lider-do-pmdb/</link>
+		<comments>http://veja.abril.com.br/blog/politica/camara-dos-deputados/pedra-no-sapato-do-governo-cunha-e-reeleito-lider-do-pmdb/#comments</comments>
+		<pubDate>Wed, 04 Dec 2013 22:23:12 +0000</pubDate>
+		<dc:creator>marizylberkan</dc:creator>
+				<category><![CDATA[Câmara dos Deputados]]></category>
+		<category><![CDATA[eduardo cunha]]></category>
+		<category><![CDATA[pmdb]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85325</guid>
+		<description><![CDATA[Articulador dos principais embates do Palácio do Planalto com o PMDB no Congresso, o deputado Eduardo Cunha (RJ) foi reeleito para comandar a bancada do partido nesta quarta-feira. E a reeleição já preocupa o governo: Cunha promete continuar jogando duro com o Planalto para aprovar seus projetos prioritários. Apesar de o PMDB ser o maior [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone" alt="" src="http://veja.abril.com.br/assets/images/2012/3/70907/eduardo-cunha-original.jpg" width="624" height="351" /></p>
+<p>Articulador dos principais embates do Palácio do Planalto com o PMDB no Congresso, o deputado Eduardo Cunha (RJ) foi reeleito para comandar a bancada do partido nesta quarta-feira. E a reeleição já preocupa o governo: Cunha promete continuar jogando duro com o Planalto para aprovar seus projetos prioritários.</p>
+<p>Apesar de o PMDB ser o maior aliado do Planalto no Congresso, a legenda causou neste ano os maiores confrontos em plenário: quase conseguiu emplacar uma derrota durante a votação da medida provisória que regulamentou os portos. Além disso, Cunha atualmente impõe barreiras ao andamento do Marco Civil da Internet.</p>
+<p>O deputado evita tratar do relacionamento conturbado com o governo: “Eu não acho que esteja fazendo mal nem bem. Eles [o Planalto] já estão habituados a conviver comigo”, disse ao site de VEJA. Cunha reforça que manterá seu posicionamento no próximo mandato, mas desconversa quando questionado se isso significa dor de cabeça à Dilma: “Em ano eleitoral, qualquer pauta fica complicada”, afirmou.</p>
+<p>(<em>Marcela Mattos, de Brasília</em>)</p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/camara-dos-deputados/pedra-no-sapato-do-governo-cunha-e-reeleito-lider-do-pmdb/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Aécio tenta barrar aproximação do PPS com o PSB</title>
+		<link>http://veja.abril.com.br/blog/politica/eleicoes-2014/aecio-tenta-reverter-aproximacao-do-pps-com-eduardo-e-marina/</link>
+		<comments>http://veja.abril.com.br/blog/politica/eleicoes-2014/aecio-tenta-reverter-aproximacao-do-pps-com-eduardo-e-marina/#comments</comments>
+		<pubDate>Wed, 04 Dec 2013 20:53:58 +0000</pubDate>
+		<dc:creator>egoncalves</dc:creator>
+				<category><![CDATA[Congresso Nacional]]></category>
+		<category><![CDATA[Eleições 2014]]></category>
+		<category><![CDATA[aécio neves]]></category>
+		<category><![CDATA[alianças]]></category>
+		<category><![CDATA[congresso]]></category>
+		<category><![CDATA[eleições 2014]]></category>
+		<category><![CDATA[política]]></category>
+		<category><![CDATA[Senado]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85319</guid>
+		<description><![CDATA[Às vésperas do congresso do PPS, quando o partido discutirá, neste final de semana, suas alianças para 2014, o potencial candidato à Presidência pelo PSDB Aécio Neves (MG) foi até o gabinete da liderança dos socialistas na Câmara para pedir apoio nas eleições de 2014. A aproximação faz parte da estratégia para evitar que o PPS [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://veja.abril.com.br/blog/politica/files/2013/12/aecio-neves.jpg"><img class="alignnone size-large wp-image-85320" alt="aecio neves" src="http://veja.abril.com.br/blog/politica/files/2013/12/aecio-neves-620x348.jpg" width="620" height="348" /></a></p>
+<p>Às vésperas do congresso do PPS, quando o partido discutirá, neste final de semana, suas alianças para 2014, o potencial candidato à Presidência pelo PSDB <strong><a href="http://veja.abril.com.br/noticia/brasil/aecio-diz-que-lancara-agenda-em-dezembro">Aécio Neves</a></strong> (MG) foi até o gabinete da liderança dos socialistas na Câmara para pedir apoio nas eleições de 2014. A aproximação faz parte da estratégia para evitar que o PPS se alie à <strong><a href="http://veja.abril.com.br/noticia/brasil/marina-filia-se-ao-psb-e-diz-que-campos-e-o-candidato">dupla</a></strong> Eduardo Campos e Marina Silva, do PSB.</p>
+<p>No encontro desta quarta-feira, Aécio afirmou respeitar as decisões do PPS, mas reforçou que “não perderia a oportunidade de comentar a importância das legendas estarem juntas”, o que já é “uma longa tradição”.</p>
+<p>“São as coisas naturais que têm efeito. Vamos esperar que o PPS naturalmente tome a decisão sem qualquer tipo de pressão”, disse. Aécio declarou ainda que a migração de Marina e Campos para o campo oposicionista “deve ser saudada como um fortalecimento da oposição”.</p>
+<p>Apesar da investida, o presidente da legenda, Roberto Freire (SP), defende a união com os candidatos do PSB. “Não sei o resto do partido, mas posições pré-definidas indicam que há uma certa tendência pró-Eduardo. Mas isso não significa que já está decidido”, disse.</p>
+<p><em>(Marcela Mattos, de Brasília)</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/eleicoes-2014/aecio-tenta-reverter-aproximacao-do-pps-com-eduardo-e-marina/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>&#8216;Não vejo com bons olhos&#8217;, diz ministro do STF sobre empregador de Dirceu</title>
+		<link>http://veja.abril.com.br/blog/politica/justica/stf-justica/nao-veja-com-bons-olhos-diz-ministro-do-stf-sobre-empregador-de-dirceu/</link>
+		<comments>http://veja.abril.com.br/blog/politica/justica/stf-justica/nao-veja-com-bons-olhos-diz-ministro-do-stf-sobre-empregador-de-dirceu/#comments</comments>
+		<pubDate>Wed, 04 Dec 2013 15:03:18 +0000</pubDate>
+		<dc:creator>cidaalves</dc:creator>
+				<category><![CDATA[STF]]></category>
+		<category><![CDATA[josé dirceu]]></category>
+		<category><![CDATA[stf]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85305</guid>
+		<description><![CDATA[O ministro Marco Aurélio Mello, do Supremo Tribunal Federal (STF), disse nesta quarta-feira que não vê “com bons olhos” a suspeita de que o presidente da empresa que administrava o hotel Saint Peter, novo empregador do ex-chefe da Casa Civil José Dirceu, seja um laranja. Para o magistrado, o episódio precisa ser esclarecido à sociedade. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg"><img class="alignnone size-full wp-image-65671" alt="tarja-julgamento-mensalao" src="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg" width="620" height="40" /></a></p>
+<p>O ministro Marco Aurélio Mello, do Supremo Tribunal Federal (STF), disse nesta quarta-feira que não vê “com bons olhos” a suspeita de que o presidente da empresa que administrava o <a href="http://veja.abril.com.br/noticia/brasil/dirceu-pede-para-cumprir-pena-como-gerente-de-hotel" target="_blank"><strong>hotel Saint Peter</strong></a>, novo empregador do ex-chefe da Casa Civil José Dirceu, seja um laranja. Para o magistrado, o episódio precisa ser esclarecido à sociedade.</p>
+<p>De acordo com reportagem do <em>Jornal Nacional,</em> da TV Globo, o presidente da Truston International Inc, <a href="http://veja.abril.com.br/noticia/brasil/empresa-que-empregara-dirceu-esta-em-nome-de-auxiliar" target="_blank"><strong>empresa sediada no Panamá</strong></a> e sócia majoritária do hotel, é o panamenho José Eugênio Silva Ritter, que trabalha como auxiliar de escritório em uma advocacia chamada Morgan y Morgan. Dirceu foi contratado para trabalhar como gerente administrativo do hotel Saint Peter com salário de <a href="http://veja.abril.com.br/noticia/brasil/hotel-oferece-salario-de-r-20-mil-a-dirceu" target="_blank"><strong>20 000 reais</strong></a> mensais.</p>
+<p>“Todos nós devemos contas à sociedade, e cada qual adota a postura que é conveniente”, disse Marco Aurélio. “Não chego a julgar o caso porque não está retratado em um processo, mas, como cidadão, não vejo com bons olhos”, completou ele.  O pedido de emprego de Dirceu será analisado pela Vara de Execuções Penais do Distrito Federal.</p>
+<p><em>(Laryssa Borges, de Brasília)</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/justica/stf-justica/nao-veja-com-bons-olhos-diz-ministro-do-stf-sobre-empregador-de-dirceu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Índios tentam invadir o Palácio do Planalto</title>
+		<link>http://veja.abril.com.br/blog/politica/justica/indios-tentam-invadir-palacio-do-planalto/</link>
+		<comments>http://veja.abril.com.br/blog/politica/justica/indios-tentam-invadir-palacio-do-planalto/#comments</comments>
+		<pubDate>Wed, 04 Dec 2013 14:11:05 +0000</pubDate>
+		<dc:creator>cidaalves</dc:creator>
+				<category><![CDATA[governo Dilma Rousseff]]></category>
+		<category><![CDATA[Justiça]]></category>
+		<category><![CDATA[Indio]]></category>
+		<category><![CDATA[ministério da justiça]]></category>
+		<category><![CDATA[palácio do planalto]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85301</guid>
+		<description><![CDATA[Um grupo de cinquenta índios tentou subir a rampa principal do Palácio do Planalto e entrou em confronto com agentes de segurança. Não houve feridos. Após o tumulto, os indígenas seguiram para o Ministério da Justiça. O grupo está em Brasília para participar da Conferência Nacional de Saúde Indígena. Os protestos de indígenas têm se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://veja.abril.com.br/blog/politica/files/2013/12/índios.jpg"><img class="alignnone size-large wp-image-85303" alt="Nacional/ Índios fazem manifestação em frente ao Palácio do Planalto" src="http://veja.abril.com.br/blog/politica/files/2013/12/índios-620x348.jpg" width="620" height="348" /></a></p>
+<p>Um grupo de cinquenta índios tentou subir a rampa principal do Palácio do Planalto e entrou em confronto com agentes de segurança. Não houve feridos. Após o tumulto, os indígenas seguiram para o Ministério da Justiça.</p>
+<p>O grupo está em Brasília para participar da Conferência Nacional de Saúde Indígena. Os protestos de indígenas têm se tornado frequentes em Brasília. A última vez em que índios haviam tentado invadir o Palácio do Planalto foi em outubro. Em abril, outro grupo forçou a entrada no plenário da Câmara dos Deputados e paralisou a sessão que estava em andamento. Eles protestam pela demarcação de novas terras indígenas no país.</p>
+<p><strong>Leia também: <a href="http://veja.abril.com.br/noticia/brasil/a-dubia-politica-indigena-que-pressiona-o-governo-dilma" target="_blank">A dúbia política indígena que pressiona o governo Dilma</a></strong></p>
+<p><i>(Gabriel Castro, de Brasília)</i></p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/justica/indios-tentam-invadir-palacio-do-planalto/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>STF nega recurso e Pedro Corrêa deve ser o próximo preso</title>
+		<link>http://veja.abril.com.br/blog/politica/justica/stf-nega-recurso-e-pedro-correa-pode-ser-o-proximo-mensaleiro-preso/</link>
+		<comments>http://veja.abril.com.br/blog/politica/justica/stf-nega-recurso-e-pedro-correa-pode-ser-o-proximo-mensaleiro-preso/#comments</comments>
+		<pubDate>Mon, 02 Dec 2013 22:48:34 +0000</pubDate>
+		<dc:creator>snavarro</dc:creator>
+				<category><![CDATA[Julgamento do mensalão]]></category>
+		<category><![CDATA[Justiça]]></category>
+		<category><![CDATA[STF]]></category>
+		<category><![CDATA[julgamento do mensalão]]></category>
+		<category><![CDATA[mensalao]]></category>
+		<category><![CDATA[stf]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85293</guid>
+		<description><![CDATA[O presidente do Supremo Tribunal Federal (STF), ministro Joaquim Barbosa, negou nesta segunda-feira os últimos recursos apresentados pelo deputado cassado Pedro Corrêa (PP-PE), condenado no julgamento do mensalão. Com isso, Corrêa pode ter a prisão decretada a qualquer momento pela Corte. O advogado do mensaleiro, Marcelo Leal, afirmou que Corrêa está em Brasília e vai [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg"><img class="aligncenter size-full wp-image-65671" alt="tarja-julgamento-mensalao" src="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg" width="620" height="40" /></a>O presidente do Supremo Tribunal Federal (STF), ministro Joaquim Barbosa, negou nesta segunda-feira os últimos recursos apresentados pelo deputado cassado Pedro Corrêa (PP-PE), condenado no julgamento do mensalão. Com isso, Corrêa pode ter a prisão decretada a qualquer momento pela Corte. O advogado do mensaleiro, Marcelo Leal, afirmou que Corrêa está em Brasília e vai se apresentar às autoridades assim que receber a ordem judicial.</p>
+<p>Corrêa foi condenado a sete anos e dois meses de prisão, em regime semiaberto, pelos crimes de corrupção passiva e lavagem de dinheiro. Ele havia apresentado um embargo infringente para tentar rediscutir a penalização por lavagem de dinheiro, mas não tinha os quatro votos mínimos necessários para que o recurso pudesse ser admitido. Na última sexta-feira, o procurador-geral da República, Rodrigo Janot, havia recomendado a <a href="http://veja.abril.com.br/noticia/brasil/pgr-pede-prisao-imediata-do-ex-deputado-pedro-correa" target="_blank"><strong>prisão imediata</strong></a> de Corrêa por conta da ilegitimidade dos infringentes apresentados ao STF.</p>
+<p>Ao lado de José Dirceu e Roberto Jefferson, Corrêa formou o trio de parlamentares cassados no escândalo do mensalão. Ele presidia o PP na época do estouro do escândalo.</p>
+<p><em>(Laryssa Borges, de Brasília)</em></p>
+<p><!--[if gte mso 9]&gt;--></p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/justica/stf-nega-recurso-e-pedro-correa-pode-ser-o-proximo-mensaleiro-preso/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>João Paulo pede ao STF absolvição de dois crimes</title>
+		<link>http://veja.abril.com.br/blog/politica/justica/joao-paulo-pede-ao-stf-absolvicao-de-dois-crimes/</link>
+		<comments>http://veja.abril.com.br/blog/politica/justica/joao-paulo-pede-ao-stf-absolvicao-de-dois-crimes/#comments</comments>
+		<pubDate>Mon, 02 Dec 2013 21:39:05 +0000</pubDate>
+		<dc:creator>snavarro</dc:creator>
+				<category><![CDATA[Julgamento do mensalão]]></category>
+		<category><![CDATA[Justiça]]></category>
+		<category><![CDATA[STF]]></category>
+		<category><![CDATA[julgamento do mensalão]]></category>
+		<category><![CDATA[mensalao]]></category>
+		<category><![CDATA[stf]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85291</guid>
+		<description><![CDATA[Ex-presidente da Câmara, o deputado João Paulo Cunha (PT-SP) apresentou nesta segunda-feira embargos infringentes ao Supremo Tribunal Federal (STF) e pediu que a Corte reveja sua condenação pelos crimes de corrupção passiva e peculato. Cunha foi condenado a nove anos e quatro meses no julgamento do mensalão. Ele recebeu 50 000 reais de propina por [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg"><img class="aligncenter size-full wp-image-65671" alt="tarja-julgamento-mensalao" src="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg" width="620" height="40" /></a>Ex-presidente da Câmara, o deputado João Paulo Cunha (PT-SP) apresentou nesta segunda-feira embargos infringentes ao Supremo Tribunal Federal (STF) e pediu que a Corte reveja sua condenação pelos crimes de corrupção passiva e peculato. Cunha foi condenado a nove anos e quatro meses no julgamento do mensalão. Ele recebeu 50 000 reais de propina por intermédio do operador do esquema Marcos Valério e beneficiou, com “tratamento privilegiado”, a agência de publicidade do empresário, a SMP&amp;B, com contratos na Câmara.</p>
+<p>O deputado petista voltou a afirmar que o dinheiro que recebeu de Valério não pode ser classificado como propina, e sim como recursos para custear pesquisas pré-eleitorais na região de Osasco (SP).</p>
+<p>Embora tenha obtido apenas dois votos pela absolvição dos crimes, Cunha alega que a condenação deve ser anulada “como medida de justiça”. Os embargos infringentes são possíveis apenas quando existem quatro votos favoráveis ao réu. Para o mensaleiro, porém, os apelos seriam possíveis também simplesmente contra uma “decisão não unânime”.</p>
+<p><em>(Laryssa Borges, de Brasília)</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/justica/joao-paulo-pede-ao-stf-absolvicao-de-dois-crimes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mensaleiras são transferidas para presídio feminino no DF</title>
+		<link>http://veja.abril.com.br/blog/politica/justica/mensaleiras-sao-transferidas-para-presidio-feminino-no-df/</link>
+		<comments>http://veja.abril.com.br/blog/politica/justica/mensaleiras-sao-transferidas-para-presidio-feminino-no-df/#comments</comments>
+		<pubDate>Mon, 02 Dec 2013 19:29:52 +0000</pubDate>
+		<dc:creator>ffrazao</dc:creator>
+				<category><![CDATA[Julgamento do mensalão]]></category>
+		<category><![CDATA[Justiça]]></category>
+		<category><![CDATA[STF]]></category>
+		<category><![CDATA[julgamento do mensalão]]></category>
+		<category><![CDATA[mensalao]]></category>
+		<category><![CDATA[stf]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85284</guid>
+		<description><![CDATA[Condenadas no escândalo do mensalão, a ex-banqueira Kátia Rabello e a ex-funcionária de Marcos Valério Simone Vasconcelos foram transferidas às 14h30 desta segunda-feira do Batalhão da Polícia Militar, no Complexo Penitenciário da Papuda, para o presídio feminino do Distrito Federal, conhecido como Colmeia. As duas foram levadas até a cidade do Gama em uma viatura [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://veja.abril.com.br/blog/politica/files/2013/12/Simone-Vasconcelos-Katia-Rabelo-size-598.jpg"><img class="aligncenter size-full wp-image-85285" alt="-Simone-Vasconcelos-Katia-Rabelo--size-598" src="http://veja.abril.com.br/blog/politica/files/2013/12/Simone-Vasconcelos-Katia-Rabelo-size-598.jpg" width="597" height="336" /></a>Condenadas no escândalo do<a href="http://veja.abril.com.br/o-julgamento-do-mensalao/#&amp;panel1-1" target="_blank"><strong> mensalão</strong></a>, a ex-banqueira Kátia Rabello e a ex-funcionária de Marcos Valério Simone Vasconcelos foram transferidas às 14h30 desta segunda-feira do Batalhão da Polícia Militar, no Complexo Penitenciário da Papuda, para o presídio feminino do Distrito Federal, conhecido como Colmeia.</p>
+<p>As duas foram levadas até a cidade do Gama em uma viatura da Secretaria do Sistema Penitenciário e foram escoltadas por policiais. Às 15h40, elas foram alojadas na mesma cela do presídio. A transferência das mensaleiras havia sido determinada na última quinta-feira pela Vara de Execuções do DF. Elas já apresentaram ao Supremo Tribunal Federal (STF) pedido para cumprir pena em Belo Horizonte (MG).</p>
+<p><strong>Leia também: </strong><strong><a href="http://veja.abril.com.br/noticia/brasil/baratas-e-banho-frio-a-nova-vida-das-mensaleiras" target="_blank">Baratas e banho frio: a vida das mensaleiras na prisão</a></strong></p>
+<p><em>(Laryssa Borges, de Brasília)</em><strong></strong></p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/justica/mensaleiras-sao-transferidas-para-presidio-feminino-no-df/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jefferson será avaliado por junta médica na quarta</title>
+		<link>http://veja.abril.com.br/blog/politica/justica/jefferson-sera-avaliado-por-junta-medica-na-quarta/</link>
+		<comments>http://veja.abril.com.br/blog/politica/justica/jefferson-sera-avaliado-por-junta-medica-na-quarta/#comments</comments>
+		<pubDate>Mon, 02 Dec 2013 18:04:47 +0000</pubDate>
+		<dc:creator>snavarro</dc:creator>
+				<category><![CDATA[Julgamento do mensalão]]></category>
+		<category><![CDATA[Justiça]]></category>
+		<category><![CDATA[STF]]></category>
+		<category><![CDATA[julgamento do mensalão]]></category>
+		<category><![CDATA[mensalao]]></category>
+		<category><![CDATA[roberto jefferson]]></category>
+		<category><![CDATA[stf]]></category>
+
+		<guid isPermaLink="false">http://veja.abril.com.br/blog/politica/?p=85281</guid>
+		<description><![CDATA[Delator do esquema do mensalão, o deputado cassado Roberto Jefferson (PTB) será avaliado por uma equipe de oncologistas na próxima quarta-feira. Ele enfrentou um câncer de pâncreas. Os exames foram determinados pelo presidente do Supremo Tribunal Federal (STF), Joaquim Barbosa, antes de a Justiça decidir se concederá ou não prisão domiciliar ao mensaleiro. Ele foi [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg"><img class="aligncenter size-full wp-image-65671" alt="tarja-julgamento-mensalao" src="http://veja.abril.com.br/blog/politica/files/2012/07/tarja-julgamento-mensalao.jpg" width="620" height="40" /></a>Delator do esquema do mensalão, o deputado cassado Roberto Jefferson (PTB) será avaliado por uma equipe de oncologistas na próxima quarta-feira. Ele enfrentou um câncer de pâncreas.</p>
+<p>Os <a href="http://veja.abril.com.br/noticia/brasil/stf-determina-pericia-para-avaliar-saude-de-jefferson" target="_blank"><strong>exames foram determinados</strong></a> pelo presidente do Supremo Tribunal Federal (STF), Joaquim Barbosa, antes de a Justiça decidir se concederá ou não prisão domiciliar ao mensaleiro. Ele foi condenado a sete anos e 14 dias de prisão por corrupção passiva e lavagem de dinheiro.</p>
+<p>Além do pedido de prisão domiciliar, a defesa de Jefferson planeja também pedir indulto à presidente da República. O benefício, que consiste em perdoar definitivamente a pena imposta pela Justiça, normalmente é concedido a detentos com bom comportamento, paraplégicos, tetraplégicos, portadores de cegueira completa, mães de filhos menores de 14 anos e àqueles que tenham cumprido parte da pena em regime fechado ou semiaberto.</p>
+<p><em>(Laryssa Borges, de Brasília)</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://veja.abril.com.br/blog/politica/justica/jefferson-sera-avaliado-por-junta-medica-na-quarta/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
